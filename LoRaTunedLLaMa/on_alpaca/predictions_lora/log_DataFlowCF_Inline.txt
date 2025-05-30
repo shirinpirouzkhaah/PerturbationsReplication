@@ -1,0 +1,2037 @@
+2025-05-23 15:05:23,335 - INFO - Loaded 2032 rows from test file
+2025-05-23 15:05:23,559 - INFO - 1438 completed indices loaded from ./predictions_lora/updated_df_Source_Org.csv
+2025-05-23 15:05:23,560 - INFO - Skipping invalid or completed row at index 0
+2025-05-23 15:05:23,561 - INFO - Skipping invalid or completed row at index 1
+2025-05-23 15:05:23,561 - INFO - Processing row 2
+2025-05-23 15:05:53,860 - INFO - Processing row 3
+2025-05-23 15:06:42,696 - INFO - Processing row 4
+2025-05-23 15:07:30,908 - INFO - Skipping invalid or completed row at index 5
+2025-05-23 15:07:30,909 - INFO - Processing row 6
+2025-05-23 15:07:47,632 - INFO - Skipping invalid or completed row at index 7
+2025-05-23 15:07:47,633 - INFO - Processing row 8
+2025-05-23 15:07:54,028 - INFO - Processing row 9
+2025-05-23 15:08:42,292 - INFO - Skipping invalid or completed row at index 10
+2025-05-23 15:08:42,292 - INFO - Skipping invalid or completed row at index 11
+2025-05-23 15:08:42,292 - INFO - Skipping invalid or completed row at index 12
+2025-05-23 15:08:42,292 - INFO - Skipping invalid or completed row at index 13
+2025-05-23 15:08:42,292 - INFO - Processing row 14
+2025-05-23 15:08:48,329 - INFO - Skipping invalid or completed row at index 15
+2025-05-23 15:08:48,329 - INFO - Processing row 16
+2025-05-23 15:09:36,565 - INFO - Skipping invalid or completed row at index 17
+2025-05-23 15:09:36,565 - INFO - Skipping invalid or completed row at index 18
+2025-05-23 15:09:36,565 - INFO - Skipping invalid or completed row at index 19
+2025-05-23 15:09:36,565 - INFO - Skipping invalid or completed row at index 20
+2025-05-23 15:09:36,565 - INFO - Processing row 21
+2025-05-23 15:10:24,817 - INFO - Skipping invalid or completed row at index 22
+2025-05-23 15:10:24,817 - INFO - Skipping invalid or completed row at index 23
+2025-05-23 15:10:24,817 - INFO - Skipping invalid or completed row at index 24
+2025-05-23 15:10:24,818 - INFO - Skipping invalid or completed row at index 25
+2025-05-23 15:10:24,818 - INFO - Skipping invalid or completed row at index 26
+2025-05-23 15:10:24,818 - INFO - Processing row 27
+2025-05-23 15:10:37,274 - INFO - Processing row 28
+2025-05-23 15:10:48,976 - INFO - Skipping invalid or completed row at index 29
+2025-05-23 15:10:48,977 - INFO - Skipping invalid or completed row at index 30
+2025-05-23 15:10:48,977 - INFO - Skipping invalid or completed row at index 31
+2025-05-23 15:10:48,977 - INFO - Processing row 32
+2025-05-23 15:11:37,540 - INFO - Processing row 33
+2025-05-23 15:12:25,799 - INFO - Processing row 34
+2025-05-23 15:12:46,736 - INFO - Skipping invalid or completed row at index 35
+2025-05-23 15:12:46,736 - INFO - Processing row 36
+2025-05-23 15:13:34,941 - INFO - Skipping invalid or completed row at index 37
+2025-05-23 15:13:34,941 - INFO - Processing row 38
+2025-05-23 15:14:23,178 - INFO - Skipping invalid or completed row at index 39
+2025-05-23 15:14:23,178 - INFO - Skipping invalid or completed row at index 40
+2025-05-23 15:14:23,178 - INFO - Skipping invalid or completed row at index 41
+2025-05-23 15:14:23,179 - INFO - Skipping invalid or completed row at index 42
+2025-05-23 15:14:23,179 - INFO - Skipping invalid or completed row at index 43
+2025-05-23 15:14:23,179 - INFO - Processing row 44
+2025-05-23 15:15:11,425 - INFO - Skipping invalid or completed row at index 45
+2025-05-23 15:15:11,425 - INFO - Skipping invalid or completed row at index 46
+2025-05-23 15:15:11,425 - INFO - Skipping invalid or completed row at index 47
+2025-05-23 15:15:11,425 - INFO - Skipping invalid or completed row at index 48
+2025-05-23 15:15:11,425 - INFO - Processing row 49
+2025-05-23 15:15:20,463 - INFO - Skipping invalid or completed row at index 50
+2025-05-23 15:15:20,463 - INFO - Skipping invalid or completed row at index 51
+2025-05-23 15:15:20,464 - INFO - Processing row 52
+2025-05-23 15:15:49,925 - INFO - Skipping invalid or completed row at index 53
+2025-05-23 15:15:49,925 - INFO - Skipping invalid or completed row at index 54
+2025-05-23 15:15:49,926 - INFO - Processing row 55
+2025-05-23 15:16:02,191 - INFO - Skipping invalid or completed row at index 56
+2025-05-23 15:16:02,191 - INFO - Processing row 57
+2025-05-23 15:16:10,259 - INFO - Skipping invalid or completed row at index 58
+2025-05-23 15:16:10,259 - INFO - Skipping invalid or completed row at index 59
+2025-05-23 15:16:10,259 - INFO - Skipping invalid or completed row at index 60
+2025-05-23 15:16:10,259 - INFO - Skipping invalid or completed row at index 61
+2025-05-23 15:16:10,259 - INFO - Skipping invalid or completed row at index 62
+2025-05-23 15:16:10,260 - INFO - Skipping invalid or completed row at index 63
+2025-05-23 15:16:10,260 - INFO - Skipping invalid or completed row at index 64
+2025-05-23 15:16:10,260 - INFO - Skipping invalid or completed row at index 65
+2025-05-23 15:16:10,260 - INFO - Skipping invalid or completed row at index 66
+2025-05-23 15:16:10,260 - INFO - Processing row 67
+2025-05-23 15:16:58,499 - INFO - Skipping invalid or completed row at index 68
+2025-05-23 15:16:58,499 - INFO - Processing row 69
+2025-05-23 15:17:46,740 - INFO - Skipping invalid or completed row at index 70
+2025-05-23 15:17:46,741 - INFO - Skipping invalid or completed row at index 71
+2025-05-23 15:17:46,741 - INFO - Skipping invalid or completed row at index 72
+2025-05-23 15:17:46,741 - INFO - Processing row 73
+2025-05-23 15:18:03,933 - INFO - Skipping invalid or completed row at index 74
+2025-05-23 15:18:03,934 - INFO - Processing row 75
+2025-05-23 15:18:14,650 - INFO - Skipping invalid or completed row at index 76
+2025-05-23 15:18:14,651 - INFO - Skipping invalid or completed row at index 77
+2025-05-23 15:18:14,651 - INFO - Skipping invalid or completed row at index 78
+2025-05-23 15:18:14,651 - INFO - Skipping invalid or completed row at index 79
+2025-05-23 15:18:14,651 - INFO - Skipping invalid or completed row at index 80
+2025-05-23 15:18:14,651 - INFO - Skipping invalid or completed row at index 81
+2025-05-23 15:18:14,651 - INFO - Processing row 82
+2025-05-23 15:19:02,900 - INFO - Skipping invalid or completed row at index 83
+2025-05-23 15:19:02,900 - INFO - Skipping invalid or completed row at index 84
+2025-05-23 15:19:02,900 - INFO - Skipping invalid or completed row at index 85
+2025-05-23 15:19:02,900 - INFO - Skipping invalid or completed row at index 86
+2025-05-23 15:19:02,901 - INFO - Skipping invalid or completed row at index 87
+2025-05-23 15:19:02,901 - INFO - Skipping invalid or completed row at index 88
+2025-05-23 15:19:02,901 - INFO - Skipping invalid or completed row at index 89
+2025-05-23 15:19:02,901 - INFO - Processing row 90
+2025-05-23 15:19:51,196 - INFO - Processing row 91
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 92
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 93
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 94
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 95
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 96
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 97
+2025-05-23 15:19:58,870 - INFO - Skipping invalid or completed row at index 98
+2025-05-23 15:19:58,871 - INFO - Skipping invalid or completed row at index 99
+2025-05-23 15:19:58,871 - INFO - Skipping invalid or completed row at index 100
+2025-05-23 15:19:58,871 - INFO - Processing row 101
+2025-05-23 15:20:05,917 - INFO - Skipping invalid or completed row at index 102
+2025-05-23 15:20:05,917 - INFO - Processing row 103
+2025-05-23 15:20:16,362 - INFO - Skipping invalid or completed row at index 104
+2025-05-23 15:20:16,362 - INFO - Skipping invalid or completed row at index 105
+2025-05-23 15:20:16,362 - INFO - Skipping invalid or completed row at index 106
+2025-05-23 15:20:16,362 - INFO - Skipping invalid or completed row at index 107
+2025-05-23 15:20:16,362 - INFO - Skipping invalid or completed row at index 108
+2025-05-23 15:20:16,362 - INFO - Skipping invalid or completed row at index 109
+2025-05-23 15:20:16,363 - INFO - Skipping invalid or completed row at index 110
+2025-05-23 15:20:16,363 - INFO - Skipping invalid or completed row at index 111
+2025-05-23 15:20:16,363 - INFO - Processing row 112
+2025-05-23 15:20:28,597 - INFO - Skipping invalid or completed row at index 113
+2025-05-23 15:20:28,597 - INFO - Skipping invalid or completed row at index 114
+2025-05-23 15:20:28,597 - INFO - Skipping invalid or completed row at index 115
+2025-05-23 15:20:28,597 - INFO - Skipping invalid or completed row at index 116
+2025-05-23 15:20:28,597 - INFO - Processing row 117
+2025-05-23 15:21:17,531 - INFO - Processing row 118
+2025-05-23 15:22:05,866 - INFO - Skipping invalid or completed row at index 119
+2025-05-23 15:22:05,866 - INFO - Processing row 120
+2025-05-23 15:22:54,201 - INFO - Processing row 121
+2025-05-23 15:23:12,138 - INFO - Processing row 122
+2025-05-23 15:24:00,478 - INFO - Processing row 123
+2025-05-23 15:24:48,864 - INFO - Skipping invalid or completed row at index 124
+2025-05-23 15:24:48,864 - INFO - Processing row 125
+2025-05-23 15:25:37,648 - INFO - Processing row 126
+2025-05-23 15:26:25,966 - INFO - Skipping invalid or completed row at index 127
+2025-05-23 15:26:25,966 - INFO - Processing row 128
+2025-05-23 15:27:14,251 - INFO - Skipping invalid or completed row at index 129
+2025-05-23 15:27:14,251 - INFO - Processing row 130
+2025-05-23 15:27:33,557 - INFO - Processing row 131
+2025-05-23 15:28:21,873 - INFO - Processing row 132
+2025-05-23 15:29:10,195 - INFO - Processing row 133
+2025-05-23 15:29:29,815 - INFO - Processing row 134
+2025-05-23 15:30:18,066 - INFO - Processing row 135
+2025-05-23 15:31:06,528 - INFO - Processing row 136
+2025-05-23 15:31:11,558 - INFO - Skipping invalid or completed row at index 137
+2025-05-23 15:31:11,558 - INFO - Processing row 138
+2025-05-23 15:32:00,001 - INFO - Processing row 139
+2025-05-23 15:32:48,352 - INFO - Skipping invalid or completed row at index 140
+2025-05-23 15:32:48,352 - INFO - Skipping invalid or completed row at index 141
+2025-05-23 15:32:48,352 - INFO - Processing row 142
+2025-05-23 15:33:11,101 - INFO - Skipping invalid or completed row at index 143
+2025-05-23 15:33:11,101 - INFO - Skipping invalid or completed row at index 144
+2025-05-23 15:33:11,101 - INFO - Skipping invalid or completed row at index 145
+2025-05-23 15:33:11,101 - INFO - Skipping invalid or completed row at index 146
+2025-05-23 15:33:11,101 - INFO - Skipping invalid or completed row at index 147
+2025-05-23 15:33:11,101 - INFO - Processing row 148
+2025-05-23 15:33:59,915 - INFO - Skipping invalid or completed row at index 149
+2025-05-23 15:33:59,915 - INFO - Skipping invalid or completed row at index 150
+2025-05-23 15:33:59,915 - INFO - Processing row 151
+2025-05-23 15:34:25,283 - INFO - Skipping invalid or completed row at index 152
+2025-05-23 15:34:25,283 - INFO - Skipping invalid or completed row at index 153
+2025-05-23 15:34:25,283 - INFO - Processing row 154
+2025-05-23 15:35:13,944 - INFO - Processing row 155
+2025-05-23 15:36:02,550 - INFO - Processing row 156
+2025-05-23 15:36:51,105 - INFO - Skipping invalid or completed row at index 157
+2025-05-23 15:36:51,105 - INFO - Skipping invalid or completed row at index 158
+2025-05-23 15:36:51,105 - INFO - Processing row 159
+2025-05-23 15:36:59,598 - INFO - Skipping invalid or completed row at index 160
+2025-05-23 15:36:59,598 - INFO - Skipping invalid or completed row at index 161
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 162
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 163
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 164
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 165
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 166
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 167
+2025-05-23 15:36:59,599 - INFO - Skipping invalid or completed row at index 168
+2025-05-23 15:36:59,599 - INFO - Processing row 169
+2025-05-23 15:37:48,022 - INFO - Processing row 170
+2025-05-23 15:37:59,772 - INFO - Processing row 171
+2025-05-23 15:38:20,634 - INFO - Skipping invalid or completed row at index 172
+2025-05-23 15:38:20,635 - INFO - Processing row 173
+2025-05-23 15:38:40,632 - INFO - Processing row 174
+2025-05-23 15:38:51,268 - INFO - Processing row 175
+2025-05-23 15:39:23,106 - INFO - Processing row 176
+2025-05-23 15:40:11,906 - INFO - Skipping invalid or completed row at index 177
+2025-05-23 15:40:11,906 - INFO - Skipping invalid or completed row at index 178
+2025-05-23 15:40:11,906 - INFO - Skipping invalid or completed row at index 179
+2025-05-23 15:40:11,907 - INFO - Processing row 180
+2025-05-23 15:41:00,589 - INFO - Skipping invalid or completed row at index 181
+2025-05-23 15:41:00,589 - INFO - Skipping invalid or completed row at index 182
+2025-05-23 15:41:00,589 - INFO - Processing row 183
+2025-05-23 15:41:49,118 - INFO - Skipping invalid or completed row at index 184
+2025-05-23 15:41:49,119 - INFO - Skipping invalid or completed row at index 185
+2025-05-23 15:41:49,119 - INFO - Skipping invalid or completed row at index 186
+2025-05-23 15:41:49,119 - INFO - Processing row 187
+2025-05-23 15:42:12,087 - INFO - Skipping invalid or completed row at index 188
+2025-05-23 15:42:12,087 - INFO - Skipping invalid or completed row at index 189
+2025-05-23 15:42:12,088 - INFO - Processing row 190
+2025-05-23 15:42:30,515 - INFO - Skipping invalid or completed row at index 191
+2025-05-23 15:42:30,515 - INFO - Processing row 192
+2025-05-23 15:42:39,777 - INFO - Skipping invalid or completed row at index 193
+2025-05-23 15:42:39,777 - INFO - Skipping invalid or completed row at index 194
+2025-05-23 15:42:39,777 - INFO - Processing row 195
+2025-05-23 15:43:28,229 - INFO - Skipping invalid or completed row at index 196
+2025-05-23 15:43:28,229 - INFO - Skipping invalid or completed row at index 197
+2025-05-23 15:43:28,229 - INFO - Processing row 198
+2025-05-23 15:44:17,266 - INFO - Skipping invalid or completed row at index 199
+2025-05-23 15:44:17,267 - INFO - Skipping invalid or completed row at index 200
+2025-05-23 15:44:17,267 - INFO - Skipping invalid or completed row at index 201
+2025-05-23 15:44:17,267 - INFO - Processing row 202
+2025-05-23 15:45:05,719 - INFO - Skipping invalid or completed row at index 203
+2025-05-23 15:45:05,720 - INFO - Processing row 204
+2025-05-23 15:45:54,251 - INFO - Skipping invalid or completed row at index 205
+2025-05-23 15:45:54,252 - INFO - Processing row 206
+2025-05-23 15:46:42,725 - INFO - Skipping invalid or completed row at index 207
+2025-05-23 15:46:42,725 - INFO - Skipping invalid or completed row at index 208
+2025-05-23 15:46:42,726 - INFO - Skipping invalid or completed row at index 209
+2025-05-23 15:46:42,726 - INFO - Skipping invalid or completed row at index 210
+2025-05-23 15:46:42,726 - INFO - Skipping invalid or completed row at index 211
+2025-05-23 15:46:42,726 - INFO - Processing row 212
+2025-05-23 15:47:31,800 - INFO - Processing row 213
+2025-05-23 15:47:52,118 - INFO - Processing row 214
+2025-05-23 15:48:40,406 - INFO - Skipping invalid or completed row at index 215
+2025-05-23 15:48:40,406 - INFO - Processing row 216
+2025-05-23 15:49:29,113 - INFO - Processing row 217
+2025-05-23 15:50:17,748 - INFO - Skipping invalid or completed row at index 218
+2025-05-23 15:50:17,961 - INFO - Skipping invalid or completed row at index 219
+2025-05-23 15:50:17,961 - INFO - Skipping invalid or completed row at index 220
+2025-05-23 15:50:17,961 - INFO - Skipping invalid or completed row at index 221
+2025-05-23 15:50:17,961 - INFO - Skipping invalid or completed row at index 222
+2025-05-23 15:50:17,961 - INFO - Processing row 223
+2025-05-23 15:51:07,647 - INFO - Processing row 224
+2025-05-23 15:51:56,751 - INFO - Processing row 225
+2025-05-23 15:52:06,298 - INFO - Skipping invalid or completed row at index 226
+2025-05-23 15:52:06,298 - INFO - Skipping invalid or completed row at index 227
+2025-05-23 15:52:06,298 - INFO - Skipping invalid or completed row at index 228
+2025-05-23 15:52:06,298 - INFO - Skipping invalid or completed row at index 229
+2025-05-23 15:52:06,298 - INFO - Skipping invalid or completed row at index 230
+2025-05-23 15:52:06,299 - INFO - Skipping invalid or completed row at index 231
+2025-05-23 15:52:06,299 - INFO - Skipping invalid or completed row at index 232
+2025-05-23 15:52:06,299 - INFO - Skipping invalid or completed row at index 233
+2025-05-23 15:52:06,299 - INFO - Processing row 234
+2025-05-23 15:52:20,618 - INFO - Skipping invalid or completed row at index 235
+2025-05-23 15:52:20,618 - INFO - Skipping invalid or completed row at index 236
+2025-05-23 15:52:20,619 - INFO - Skipping invalid or completed row at index 237
+2025-05-23 15:52:20,619 - INFO - Processing row 238
+2025-05-23 15:52:28,796 - INFO - Processing row 239
+2025-05-23 15:52:45,974 - INFO - Processing row 240
+2025-05-23 15:53:34,488 - INFO - Skipping invalid or completed row at index 241
+2025-05-23 15:53:34,488 - INFO - Skipping invalid or completed row at index 242
+2025-05-23 15:53:34,488 - INFO - Skipping invalid or completed row at index 243
+2025-05-23 15:53:34,489 - INFO - Skipping invalid or completed row at index 244
+2025-05-23 15:53:34,489 - INFO - Skipping invalid or completed row at index 245
+2025-05-23 15:53:34,489 - INFO - Skipping invalid or completed row at index 246
+2025-05-23 15:53:34,489 - INFO - Processing row 247
+2025-05-23 15:54:01,123 - INFO - Processing row 248
+2025-05-23 15:54:09,886 - INFO - Skipping invalid or completed row at index 249
+2025-05-23 15:54:09,886 - INFO - Processing row 250
+2025-05-23 15:54:58,265 - INFO - Skipping invalid or completed row at index 251
+2025-05-23 15:54:58,266 - INFO - Processing row 252
+2025-05-23 15:55:46,558 - INFO - Skipping invalid or completed row at index 253
+2025-05-23 15:55:46,558 - INFO - Processing row 254
+2025-05-23 15:56:34,824 - INFO - Processing row 255
+2025-05-23 15:56:42,618 - INFO - Processing row 256
+2025-05-23 15:57:31,530 - INFO - Processing row 257
+2025-05-23 15:58:20,288 - INFO - Processing row 258
+2025-05-23 15:58:28,231 - INFO - Processing row 259
+2025-05-23 15:58:35,048 - INFO - Skipping invalid or completed row at index 260
+2025-05-23 15:58:35,049 - INFO - Processing row 261
+2025-05-23 15:59:23,394 - INFO - Skipping invalid or completed row at index 262
+2025-05-23 15:59:23,394 - INFO - Skipping invalid or completed row at index 263
+2025-05-23 15:59:23,394 - INFO - Processing row 264
+2025-05-23 15:59:34,032 - INFO - Processing row 265
+2025-05-23 16:00:22,480 - INFO - Processing row 266
+2025-05-23 16:01:11,024 - INFO - Skipping invalid or completed row at index 267
+2025-05-23 16:01:11,025 - INFO - Skipping invalid or completed row at index 268
+2025-05-23 16:01:11,025 - INFO - Processing row 269
+2025-05-23 16:01:59,704 - INFO - Processing row 270
+2025-05-23 16:02:48,024 - INFO - Skipping invalid or completed row at index 271
+2025-05-23 16:02:48,024 - INFO - Skipping invalid or completed row at index 272
+2025-05-23 16:02:48,024 - INFO - Processing row 273
+2025-05-23 16:03:02,489 - INFO - Processing row 274
+2025-05-23 16:03:07,016 - INFO - Processing row 275
+2025-05-23 16:03:55,244 - INFO - Processing row 276
+2025-05-23 16:04:43,612 - INFO - Skipping invalid or completed row at index 277
+2025-05-23 16:04:43,613 - INFO - Skipping invalid or completed row at index 278
+2025-05-23 16:04:43,613 - INFO - Skipping invalid or completed row at index 279
+2025-05-23 16:04:43,613 - INFO - Skipping invalid or completed row at index 280
+2025-05-23 16:04:43,613 - INFO - Processing row 281
+2025-05-23 16:05:32,168 - INFO - Skipping invalid or completed row at index 282
+2025-05-23 16:05:32,168 - INFO - Skipping invalid or completed row at index 283
+2025-05-23 16:05:32,168 - INFO - Skipping invalid or completed row at index 284
+2025-05-23 16:05:32,168 - INFO - Skipping invalid or completed row at index 285
+2025-05-23 16:05:32,169 - INFO - Processing row 286
+2025-05-23 16:06:20,388 - INFO - Skipping invalid or completed row at index 287
+2025-05-23 16:06:20,388 - INFO - Skipping invalid or completed row at index 288
+2025-05-23 16:06:20,388 - INFO - Skipping invalid or completed row at index 289
+2025-05-23 16:06:20,388 - INFO - Skipping invalid or completed row at index 290
+2025-05-23 16:06:20,388 - INFO - Skipping invalid or completed row at index 291
+2025-05-23 16:06:20,389 - INFO - Processing row 292
+2025-05-23 16:07:08,775 - INFO - Skipping invalid or completed row at index 293
+2025-05-23 16:07:08,775 - INFO - Processing row 294
+2025-05-23 16:07:24,630 - INFO - Skipping invalid or completed row at index 295
+2025-05-23 16:07:24,630 - INFO - Processing row 296
+2025-05-23 16:08:13,008 - INFO - Skipping invalid or completed row at index 297
+2025-05-23 16:08:13,008 - INFO - Skipping invalid or completed row at index 298
+2025-05-23 16:08:13,008 - INFO - Processing row 299
+2025-05-23 16:09:02,689 - INFO - Skipping invalid or completed row at index 300
+2025-05-23 16:09:02,689 - INFO - Skipping invalid or completed row at index 301
+2025-05-23 16:09:02,689 - INFO - Skipping invalid or completed row at index 302
+2025-05-23 16:09:02,689 - INFO - Skipping invalid or completed row at index 303
+2025-05-23 16:09:02,689 - INFO - Processing row 304
+2025-05-23 16:09:16,320 - INFO - Processing row 305
+2025-05-23 16:10:05,043 - INFO - Skipping invalid or completed row at index 306
+2025-05-23 16:10:05,044 - INFO - Skipping invalid or completed row at index 307
+2025-05-23 16:10:05,044 - INFO - Processing row 308
+2025-05-23 16:10:16,869 - INFO - Skipping invalid or completed row at index 309
+2025-05-23 16:10:16,870 - INFO - Skipping invalid or completed row at index 310
+2025-05-23 16:10:16,870 - INFO - Skipping invalid or completed row at index 311
+2025-05-23 16:10:16,870 - INFO - Processing row 312
+2025-05-23 16:11:05,343 - INFO - Skipping invalid or completed row at index 313
+2025-05-23 16:11:05,343 - INFO - Skipping invalid or completed row at index 314
+2025-05-23 16:11:05,343 - INFO - Skipping invalid or completed row at index 315
+2025-05-23 16:11:05,343 - INFO - Processing row 316
+2025-05-23 16:11:10,546 - INFO - Skipping invalid or completed row at index 317
+2025-05-23 16:11:10,546 - INFO - Processing row 318
+2025-05-23 16:11:58,889 - INFO - Skipping invalid or completed row at index 319
+2025-05-23 16:11:58,890 - INFO - Skipping invalid or completed row at index 320
+2025-05-23 16:11:58,890 - INFO - Skipping invalid or completed row at index 321
+2025-05-23 16:11:58,890 - INFO - Processing row 322
+2025-05-23 16:12:04,631 - INFO - Processing row 323
+2025-05-23 16:12:10,518 - INFO - Processing row 324
+2025-05-23 16:12:20,382 - INFO - Skipping invalid or completed row at index 325
+2025-05-23 16:12:20,382 - INFO - Skipping invalid or completed row at index 326
+2025-05-23 16:12:20,383 - INFO - Skipping invalid or completed row at index 327
+2025-05-23 16:12:20,383 - INFO - Skipping invalid or completed row at index 328
+2025-05-23 16:12:20,383 - INFO - Skipping invalid or completed row at index 329
+2025-05-23 16:12:20,383 - INFO - Skipping invalid or completed row at index 330
+2025-05-23 16:12:20,383 - INFO - Processing row 331
+2025-05-23 16:12:34,792 - INFO - Processing row 332
+2025-05-23 16:12:43,969 - INFO - Processing row 333
+2025-05-23 16:12:55,783 - INFO - Skipping invalid or completed row at index 334
+2025-05-23 16:12:55,783 - INFO - Processing row 335
+2025-05-23 16:13:44,214 - INFO - Skipping invalid or completed row at index 336
+2025-05-23 16:13:44,214 - INFO - Processing row 337
+2025-05-23 16:14:32,711 - INFO - Skipping invalid or completed row at index 338
+2025-05-23 16:14:32,711 - INFO - Processing row 339
+2025-05-23 16:15:21,176 - INFO - Skipping invalid or completed row at index 340
+2025-05-23 16:15:21,176 - INFO - Processing row 341
+2025-05-23 16:15:30,794 - INFO - Processing row 342
+2025-05-23 16:16:19,449 - INFO - Skipping invalid or completed row at index 343
+2025-05-23 16:16:19,449 - INFO - Skipping invalid or completed row at index 344
+2025-05-23 16:16:19,450 - INFO - Skipping invalid or completed row at index 345
+2025-05-23 16:16:19,450 - INFO - Skipping invalid or completed row at index 346
+2025-05-23 16:16:19,450 - INFO - Skipping invalid or completed row at index 347
+2025-05-23 16:16:19,450 - INFO - Skipping invalid or completed row at index 348
+2025-05-23 16:16:19,450 - INFO - Skipping invalid or completed row at index 349
+2025-05-23 16:16:19,450 - INFO - Processing row 350
+2025-05-23 16:17:08,079 - INFO - Skipping invalid or completed row at index 351
+2025-05-23 16:17:08,080 - INFO - Skipping invalid or completed row at index 352
+2025-05-23 16:17:08,080 - INFO - Skipping invalid or completed row at index 353
+2025-05-23 16:17:08,080 - INFO - Skipping invalid or completed row at index 354
+2025-05-23 16:17:08,080 - INFO - Skipping invalid or completed row at index 355
+2025-05-23 16:17:08,080 - INFO - Skipping invalid or completed row at index 356
+2025-05-23 16:17:08,080 - INFO - Skipping invalid or completed row at index 357
+2025-05-23 16:17:08,080 - INFO - Processing row 358
+2025-05-23 16:17:17,717 - INFO - Skipping invalid or completed row at index 359
+2025-05-23 16:17:17,717 - INFO - Skipping invalid or completed row at index 360
+2025-05-23 16:17:17,717 - INFO - Skipping invalid or completed row at index 361
+2025-05-23 16:17:17,717 - INFO - Processing row 362
+2025-05-23 16:17:39,824 - INFO - Skipping invalid or completed row at index 363
+2025-05-23 16:17:39,825 - INFO - Skipping invalid or completed row at index 364
+2025-05-23 16:17:39,825 - INFO - Skipping invalid or completed row at index 365
+2025-05-23 16:17:39,825 - INFO - Skipping invalid or completed row at index 366
+2025-05-23 16:17:39,825 - INFO - Processing row 367
+2025-05-23 16:18:28,106 - INFO - Skipping invalid or completed row at index 368
+2025-05-23 16:18:28,106 - INFO - Skipping invalid or completed row at index 369
+2025-05-23 16:18:28,106 - INFO - Skipping invalid or completed row at index 370
+2025-05-23 16:18:28,106 - INFO - Processing row 371
+2025-05-23 16:19:16,520 - INFO - Processing row 372
+2025-05-23 16:20:04,744 - INFO - Processing row 373
+2025-05-23 16:20:15,845 - INFO - Processing row 374
+2025-05-23 16:21:04,330 - INFO - Skipping invalid or completed row at index 375
+2025-05-23 16:21:04,330 - INFO - Processing row 376
+2025-05-23 16:21:52,839 - INFO - Processing row 377
+2025-05-23 16:22:41,277 - INFO - Skipping invalid or completed row at index 378
+2025-05-23 16:22:41,277 - INFO - Skipping invalid or completed row at index 379
+2025-05-23 16:22:41,277 - INFO - Skipping invalid or completed row at index 380
+2025-05-23 16:22:41,277 - INFO - Processing row 381
+2025-05-23 16:23:30,024 - INFO - Processing row 382
+2025-05-23 16:24:18,281 - INFO - Processing row 383
+2025-05-23 16:25:06,785 - INFO - Skipping invalid or completed row at index 384
+2025-05-23 16:25:06,786 - INFO - Processing row 385
+2025-05-23 16:25:15,915 - INFO - Processing row 386
+2025-05-23 16:25:30,032 - INFO - Skipping invalid or completed row at index 387
+2025-05-23 16:25:30,033 - INFO - Skipping invalid or completed row at index 388
+2025-05-23 16:25:30,033 - INFO - Skipping invalid or completed row at index 389
+2025-05-23 16:25:30,033 - INFO - Processing row 390
+2025-05-23 16:26:18,594 - INFO - Processing row 391
+2025-05-23 16:26:36,725 - INFO - Skipping invalid or completed row at index 392
+2025-05-23 16:26:36,726 - INFO - Processing row 393
+2025-05-23 16:27:25,376 - INFO - Processing row 394
+2025-05-23 16:27:37,009 - INFO - Processing row 395
+2025-05-23 16:28:25,559 - INFO - Skipping invalid or completed row at index 396
+2025-05-23 16:28:25,559 - INFO - Skipping invalid or completed row at index 397
+2025-05-23 16:28:25,559 - INFO - Skipping invalid or completed row at index 398
+2025-05-23 16:28:25,559 - INFO - Processing row 399
+2025-05-23 16:29:13,985 - INFO - Skipping invalid or completed row at index 400
+2025-05-23 16:29:13,985 - INFO - Skipping invalid or completed row at index 401
+2025-05-23 16:29:13,986 - INFO - Skipping invalid or completed row at index 402
+2025-05-23 16:29:13,986 - INFO - Skipping invalid or completed row at index 403
+2025-05-23 16:29:13,986 - INFO - Skipping invalid or completed row at index 404
+2025-05-23 16:29:13,986 - INFO - Skipping invalid or completed row at index 405
+2025-05-23 16:29:13,986 - INFO - Skipping invalid or completed row at index 406
+2025-05-23 16:29:13,986 - INFO - Processing row 407
+2025-05-23 16:30:02,675 - INFO - Skipping invalid or completed row at index 408
+2025-05-23 16:30:02,675 - INFO - Skipping invalid or completed row at index 409
+2025-05-23 16:30:02,675 - INFO - Skipping invalid or completed row at index 410
+2025-05-23 16:30:02,676 - INFO - Processing row 411
+2025-05-23 16:30:11,601 - INFO - Skipping invalid or completed row at index 412
+2025-05-23 16:30:11,601 - INFO - Skipping invalid or completed row at index 413
+2025-05-23 16:30:11,601 - INFO - Skipping invalid or completed row at index 414
+2025-05-23 16:30:11,601 - INFO - Skipping invalid or completed row at index 415
+2025-05-23 16:30:11,602 - INFO - Processing row 416
+2025-05-23 16:31:00,124 - INFO - Processing row 417
+2025-05-23 16:31:04,785 - INFO - Processing row 418
+2025-05-23 16:31:53,033 - INFO - Skipping invalid or completed row at index 419
+2025-05-23 16:31:53,033 - INFO - Processing row 420
+2025-05-23 16:32:41,914 - INFO - Skipping invalid or completed row at index 421
+2025-05-23 16:32:41,915 - INFO - Processing row 422
+2025-05-23 16:33:30,300 - INFO - Processing row 423
+2025-05-23 16:33:41,182 - INFO - Skipping invalid or completed row at index 424
+2025-05-23 16:33:41,183 - INFO - Skipping invalid or completed row at index 425
+2025-05-23 16:33:41,183 - INFO - Skipping invalid or completed row at index 426
+2025-05-23 16:33:41,183 - INFO - Skipping invalid or completed row at index 427
+2025-05-23 16:33:41,183 - INFO - Skipping invalid or completed row at index 428
+2025-05-23 16:33:41,183 - INFO - Processing row 429
+2025-05-23 16:34:29,703 - INFO - Skipping invalid or completed row at index 430
+2025-05-23 16:34:29,703 - INFO - Skipping invalid or completed row at index 431
+2025-05-23 16:34:29,703 - INFO - Skipping invalid or completed row at index 432
+2025-05-23 16:34:29,703 - INFO - Skipping invalid or completed row at index 433
+2025-05-23 16:34:29,703 - INFO - Processing row 434
+2025-05-23 16:35:17,874 - INFO - Skipping invalid or completed row at index 435
+2025-05-23 16:35:17,874 - INFO - Skipping invalid or completed row at index 436
+2025-05-23 16:35:17,874 - INFO - Skipping invalid or completed row at index 437
+2025-05-23 16:35:17,874 - INFO - Skipping invalid or completed row at index 438
+2025-05-23 16:35:17,874 - INFO - Processing row 439
+2025-05-23 16:36:06,139 - INFO - Skipping invalid or completed row at index 440
+2025-05-23 16:36:06,140 - INFO - Processing row 441
+2025-05-23 16:36:10,917 - INFO - Processing row 442
+2025-05-23 16:36:45,787 - INFO - Processing row 443
+2025-05-23 16:36:56,860 - INFO - Skipping invalid or completed row at index 444
+2025-05-23 16:36:56,861 - INFO - Skipping invalid or completed row at index 445
+2025-05-23 16:36:56,861 - INFO - Processing row 446
+2025-05-23 16:37:45,069 - INFO - Skipping invalid or completed row at index 447
+2025-05-23 16:37:45,069 - INFO - Skipping invalid or completed row at index 448
+2025-05-23 16:37:45,069 - INFO - Skipping invalid or completed row at index 449
+2025-05-23 16:37:45,069 - INFO - Processing row 450
+2025-05-23 16:37:53,853 - INFO - Processing row 451
+2025-05-23 16:38:42,351 - INFO - Skipping invalid or completed row at index 452
+2025-05-23 16:38:42,351 - INFO - Processing row 453
+2025-05-23 16:38:51,592 - INFO - Skipping invalid or completed row at index 454
+2025-05-23 16:38:51,592 - INFO - Skipping invalid or completed row at index 455
+2025-05-23 16:38:51,592 - INFO - Skipping invalid or completed row at index 456
+2025-05-23 16:38:51,592 - INFO - Skipping invalid or completed row at index 457
+2025-05-23 16:38:51,592 - INFO - Skipping invalid or completed row at index 458
+2025-05-23 16:38:51,593 - INFO - Skipping invalid or completed row at index 459
+2025-05-23 16:38:51,593 - INFO - Processing row 460
+2025-05-23 16:39:04,495 - INFO - Skipping invalid or completed row at index 461
+2025-05-23 16:39:04,495 - INFO - Skipping invalid or completed row at index 462
+2025-05-23 16:39:04,495 - INFO - Skipping invalid or completed row at index 463
+2025-05-23 16:39:04,496 - INFO - Skipping invalid or completed row at index 464
+2025-05-23 16:39:04,496 - INFO - Skipping invalid or completed row at index 465
+2025-05-23 16:39:04,496 - INFO - Processing row 466
+2025-05-23 16:39:13,788 - INFO - Processing row 467
+2025-05-23 16:39:25,600 - INFO - Processing row 468
+2025-05-23 16:39:47,206 - INFO - Skipping invalid or completed row at index 469
+2025-05-23 16:39:47,206 - INFO - Skipping invalid or completed row at index 470
+2025-05-23 16:39:47,206 - INFO - Skipping invalid or completed row at index 471
+2025-05-23 16:39:47,207 - INFO - Processing row 472
+2025-05-23 16:40:35,515 - INFO - Processing row 473
+2025-05-23 16:40:57,116 - INFO - Processing row 474
+2025-05-23 16:41:45,739 - INFO - Processing row 475
+2025-05-23 16:42:35,850 - INFO - Processing row 476
+2025-05-23 16:42:53,609 - INFO - Skipping invalid or completed row at index 477
+2025-05-23 16:42:54,501 - INFO - Skipping invalid or completed row at index 478
+2025-05-23 16:42:55,522 - INFO - Skipping invalid or completed row at index 479
+2025-05-23 16:42:56,850 - INFO - Processing row 480
+2025-05-23 16:43:47,550 - INFO - Skipping invalid or completed row at index 481
+2025-05-23 16:43:48,920 - INFO - Skipping invalid or completed row at index 482
+2025-05-23 16:43:51,070 - INFO - Skipping invalid or completed row at index 483
+2025-05-23 16:43:53,186 - INFO - Processing row 484
+2025-05-23 16:44:34,796 - INFO - Skipping invalid or completed row at index 485
+2025-05-23 16:44:37,422 - INFO - Skipping invalid or completed row at index 486
+2025-05-23 16:44:39,612 - INFO - Skipping invalid or completed row at index 487
+2025-05-23 16:44:41,197 - INFO - Processing row 488
+2025-05-23 16:45:08,159 - INFO - Skipping invalid or completed row at index 489
+2025-05-23 16:45:11,577 - INFO - Skipping invalid or completed row at index 490
+2025-05-23 16:45:14,263 - INFO - Processing row 491
+2025-05-23 16:46:05,501 - INFO - Skipping invalid or completed row at index 492
+2025-05-23 16:46:07,559 - INFO - Skipping invalid or completed row at index 493
+2025-05-23 16:46:10,568 - INFO - Processing row 494
+2025-05-23 16:47:02,342 - INFO - Skipping invalid or completed row at index 495
+2025-05-23 16:47:03,634 - INFO - Skipping invalid or completed row at index 496
+2025-05-23 16:47:04,368 - INFO - Skipping invalid or completed row at index 497
+2025-05-23 16:47:06,954 - INFO - Skipping invalid or completed row at index 498
+2025-05-23 16:47:08,829 - INFO - Processing row 499
+2025-05-23 16:47:29,686 - INFO - Processing row 500
+2025-05-23 16:47:41,631 - INFO - Skipping invalid or completed row at index 501
+2025-05-23 16:47:43,572 - INFO - Skipping invalid or completed row at index 502
+2025-05-23 16:47:44,551 - INFO - Skipping invalid or completed row at index 503
+2025-05-23 16:47:45,593 - INFO - Skipping invalid or completed row at index 504
+2025-05-23 16:47:45,836 - INFO - Skipping invalid or completed row at index 505
+2025-05-23 16:47:46,852 - INFO - Skipping invalid or completed row at index 506
+2025-05-23 16:47:47,642 - INFO - Processing row 507
+2025-05-23 16:48:37,829 - INFO - Processing row 508
+2025-05-23 16:49:26,914 - INFO - Processing row 509
+2025-05-23 16:49:48,996 - INFO - Skipping invalid or completed row at index 510
+2025-05-23 16:49:48,996 - INFO - Processing row 511
+2025-05-23 16:49:55,397 - INFO - Processing row 512
+2025-05-23 16:50:43,807 - INFO - Processing row 513
+2025-05-23 16:51:32,067 - INFO - Skipping invalid or completed row at index 514
+2025-05-23 16:51:32,068 - INFO - Processing row 515
+2025-05-23 16:51:47,091 - INFO - Processing row 516
+2025-05-23 16:51:54,887 - INFO - Processing row 517
+2025-05-23 16:52:04,541 - INFO - Processing row 518
+2025-05-23 16:52:16,281 - INFO - Processing row 519
+2025-05-23 16:52:35,750 - INFO - Processing row 520
+2025-05-23 16:52:45,086 - INFO - Skipping invalid or completed row at index 521
+2025-05-23 16:52:45,087 - INFO - Skipping invalid or completed row at index 522
+2025-05-23 16:52:45,087 - INFO - Skipping invalid or completed row at index 523
+2025-05-23 16:52:45,087 - INFO - Processing row 524
+2025-05-23 16:53:05,358 - INFO - Skipping invalid or completed row at index 525
+2025-05-23 16:53:05,358 - INFO - Skipping invalid or completed row at index 526
+2025-05-23 16:53:05,358 - INFO - Skipping invalid or completed row at index 527
+2025-05-23 16:53:05,358 - INFO - Processing row 528
+2025-05-23 16:53:53,623 - INFO - Skipping invalid or completed row at index 529
+2025-05-23 16:53:53,624 - INFO - Skipping invalid or completed row at index 530
+2025-05-23 16:53:53,624 - INFO - Processing row 531
+2025-05-23 16:54:41,987 - INFO - Processing row 532
+2025-05-23 16:55:06,777 - INFO - Skipping invalid or completed row at index 533
+2025-05-23 16:55:06,777 - INFO - Skipping invalid or completed row at index 534
+2025-05-23 16:55:06,777 - INFO - Processing row 535
+2025-05-23 16:55:13,959 - INFO - Processing row 536
+2025-05-23 16:56:02,914 - INFO - Skipping invalid or completed row at index 537
+2025-05-23 16:56:02,914 - INFO - Skipping invalid or completed row at index 538
+2025-05-23 16:56:02,915 - INFO - Skipping invalid or completed row at index 539
+2025-05-23 16:56:02,915 - INFO - Processing row 540
+2025-05-23 16:56:51,254 - INFO - Processing row 541
+2025-05-23 16:57:11,303 - INFO - Skipping invalid or completed row at index 542
+2025-05-23 16:57:11,303 - INFO - Skipping invalid or completed row at index 543
+2025-05-23 16:57:11,304 - INFO - Processing row 544
+2025-05-23 16:57:18,064 - INFO - Skipping invalid or completed row at index 545
+2025-05-23 16:57:18,064 - INFO - Processing row 546
+2025-05-23 16:58:06,349 - INFO - Skipping invalid or completed row at index 547
+2025-05-23 16:58:06,350 - INFO - Skipping invalid or completed row at index 548
+2025-05-23 16:58:06,350 - INFO - Processing row 549
+2025-05-23 16:58:54,655 - INFO - Skipping invalid or completed row at index 550
+2025-05-23 16:58:54,655 - INFO - Skipping invalid or completed row at index 551
+2025-05-23 16:58:54,655 - INFO - Skipping invalid or completed row at index 552
+2025-05-23 16:58:54,655 - INFO - Skipping invalid or completed row at index 553
+2025-05-23 16:58:54,655 - INFO - Skipping invalid or completed row at index 554
+2025-05-23 16:58:54,655 - INFO - Processing row 555
+2025-05-23 16:59:12,279 - INFO - Skipping invalid or completed row at index 556
+2025-05-23 16:59:12,279 - INFO - Processing row 557
+2025-05-23 16:59:23,019 - INFO - Skipping invalid or completed row at index 558
+2025-05-23 16:59:23,019 - INFO - Skipping invalid or completed row at index 559
+2025-05-23 16:59:23,019 - INFO - Processing row 560
+2025-05-23 17:00:11,292 - INFO - Processing row 561
+2025-05-23 17:00:20,733 - INFO - Processing row 562
+2025-05-23 17:00:32,721 - INFO - Skipping invalid or completed row at index 563
+2025-05-23 17:00:32,721 - INFO - Skipping invalid or completed row at index 564
+2025-05-23 17:00:32,721 - INFO - Skipping invalid or completed row at index 565
+2025-05-23 17:00:32,721 - INFO - Processing row 566
+2025-05-23 17:00:38,484 - INFO - Processing row 567
+2025-05-23 17:00:47,993 - INFO - Skipping invalid or completed row at index 568
+2025-05-23 17:00:47,993 - INFO - Skipping invalid or completed row at index 569
+2025-05-23 17:00:47,993 - INFO - Skipping invalid or completed row at index 570
+2025-05-23 17:00:47,993 - INFO - Skipping invalid or completed row at index 571
+2025-05-23 17:00:47,993 - INFO - Skipping invalid or completed row at index 572
+2025-05-23 17:00:47,993 - INFO - Processing row 573
+2025-05-23 17:00:56,179 - INFO - Skipping invalid or completed row at index 574
+2025-05-23 17:00:56,179 - INFO - Skipping invalid or completed row at index 575
+2025-05-23 17:00:56,179 - INFO - Processing row 576
+2025-05-23 17:01:44,493 - INFO - Skipping invalid or completed row at index 577
+2025-05-23 17:01:44,493 - INFO - Skipping invalid or completed row at index 578
+2025-05-23 17:01:44,493 - INFO - Processing row 579
+2025-05-23 17:02:34,314 - INFO - Processing row 580
+2025-05-23 17:03:23,564 - INFO - Skipping invalid or completed row at index 581
+2025-05-23 17:03:23,564 - INFO - Processing row 582
+2025-05-23 17:04:11,940 - INFO - Skipping invalid or completed row at index 583
+2025-05-23 17:04:11,941 - INFO - Skipping invalid or completed row at index 584
+2025-05-23 17:04:11,941 - INFO - Skipping invalid or completed row at index 585
+2025-05-23 17:04:11,941 - INFO - Skipping invalid or completed row at index 586
+2025-05-23 17:04:11,941 - INFO - Skipping invalid or completed row at index 587
+2025-05-23 17:04:11,941 - INFO - Processing row 588
+2025-05-23 17:05:00,470 - INFO - Skipping invalid or completed row at index 589
+2025-05-23 17:05:00,470 - INFO - Skipping invalid or completed row at index 590
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 591
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 592
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 593
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 594
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 595
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 596
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 597
+2025-05-23 17:05:00,471 - INFO - Skipping invalid or completed row at index 598
+2025-05-23 17:05:00,472 - INFO - Processing row 599
+2025-05-23 17:05:48,974 - INFO - Skipping invalid or completed row at index 600
+2025-05-23 17:05:48,975 - INFO - Skipping invalid or completed row at index 601
+2025-05-23 17:05:48,975 - INFO - Skipping invalid or completed row at index 602
+2025-05-23 17:05:48,975 - INFO - Processing row 603
+2025-05-23 17:06:37,899 - INFO - Skipping invalid or completed row at index 604
+2025-05-23 17:06:37,899 - INFO - Skipping invalid or completed row at index 605
+2025-05-23 17:06:37,899 - INFO - Skipping invalid or completed row at index 606
+2025-05-23 17:06:37,900 - INFO - Processing row 607
+2025-05-23 17:07:26,389 - INFO - Skipping invalid or completed row at index 608
+2025-05-23 17:07:26,389 - INFO - Skipping invalid or completed row at index 609
+2025-05-23 17:07:26,389 - INFO - Skipping invalid or completed row at index 610
+2025-05-23 17:07:26,390 - INFO - Skipping invalid or completed row at index 611
+2025-05-23 17:07:26,390 - INFO - Processing row 612
+2025-05-23 17:08:14,841 - INFO - Skipping invalid or completed row at index 613
+2025-05-23 17:08:14,841 - INFO - Skipping invalid or completed row at index 614
+2025-05-23 17:08:14,842 - INFO - Skipping invalid or completed row at index 615
+2025-05-23 17:08:14,842 - INFO - Processing row 616
+2025-05-23 17:09:03,341 - INFO - Processing row 617
+2025-05-23 17:09:21,314 - INFO - Processing row 618
+2025-05-23 17:10:09,846 - INFO - Skipping invalid or completed row at index 619
+2025-05-23 17:10:09,846 - INFO - Skipping invalid or completed row at index 620
+2025-05-23 17:10:09,846 - INFO - Skipping invalid or completed row at index 621
+2025-05-23 17:10:09,847 - INFO - Skipping invalid or completed row at index 622
+2025-05-23 17:10:09,847 - INFO - Processing row 623
+2025-05-23 17:10:58,316 - INFO - Processing row 624
+2025-05-23 17:11:22,038 - INFO - Processing row 625
+2025-05-23 17:11:33,498 - INFO - Skipping invalid or completed row at index 626
+2025-05-23 17:11:33,499 - INFO - Skipping invalid or completed row at index 627
+2025-05-23 17:11:33,499 - INFO - Processing row 628
+2025-05-23 17:12:22,254 - INFO - Skipping invalid or completed row at index 629
+2025-05-23 17:12:22,255 - INFO - Skipping invalid or completed row at index 630
+2025-05-23 17:12:22,255 - INFO - Skipping invalid or completed row at index 631
+2025-05-23 17:12:22,255 - INFO - Processing row 632
+2025-05-23 17:13:11,659 - INFO - Skipping invalid or completed row at index 633
+2025-05-23 17:13:11,660 - INFO - Skipping invalid or completed row at index 634
+2025-05-23 17:13:11,660 - INFO - Skipping invalid or completed row at index 635
+2025-05-23 17:13:11,660 - INFO - Skipping invalid or completed row at index 636
+2025-05-23 17:13:11,660 - INFO - Skipping invalid or completed row at index 637
+2025-05-23 17:13:11,660 - INFO - Skipping invalid or completed row at index 638
+2025-05-23 17:13:11,660 - INFO - Skipping invalid or completed row at index 639
+2025-05-23 17:13:11,660 - INFO - Processing row 640
+2025-05-23 17:14:01,944 - INFO - Skipping invalid or completed row at index 641
+2025-05-23 17:14:01,944 - INFO - Processing row 642
+2025-05-23 17:14:13,886 - INFO - Skipping invalid or completed row at index 643
+2025-05-23 17:14:13,886 - INFO - Skipping invalid or completed row at index 644
+2025-05-23 17:14:13,886 - INFO - Skipping invalid or completed row at index 645
+2025-05-23 17:14:13,886 - INFO - Processing row 646
+2025-05-23 17:15:04,362 - INFO - Skipping invalid or completed row at index 647
+2025-05-23 17:15:04,363 - INFO - Skipping invalid or completed row at index 648
+2025-05-23 17:15:04,363 - INFO - Skipping invalid or completed row at index 649
+2025-05-23 17:15:04,363 - INFO - Processing row 650
+2025-05-23 17:15:11,576 - INFO - Processing row 651
+2025-05-23 17:15:26,144 - INFO - Skipping invalid or completed row at index 652
+2025-05-23 17:15:26,144 - INFO - Skipping invalid or completed row at index 653
+2025-05-23 17:15:26,144 - INFO - Processing row 654
+2025-05-23 17:15:41,611 - INFO - Skipping invalid or completed row at index 655
+2025-05-23 17:15:41,611 - INFO - Processing row 656
+2025-05-23 17:15:47,859 - INFO - Processing row 657
+2025-05-23 17:16:38,120 - INFO - Skipping invalid or completed row at index 658
+2025-05-23 17:16:38,121 - INFO - Processing row 659
+2025-05-23 17:17:28,426 - INFO - Skipping invalid or completed row at index 660
+2025-05-23 17:17:28,426 - INFO - Processing row 661
+2025-05-23 17:17:37,523 - INFO - Skipping invalid or completed row at index 662
+2025-05-23 17:17:37,523 - INFO - Skipping invalid or completed row at index 663
+2025-05-23 17:17:37,523 - INFO - Skipping invalid or completed row at index 664
+2025-05-23 17:17:37,524 - INFO - Processing row 665
+2025-05-23 17:17:55,367 - INFO - Processing row 666
+2025-05-23 17:18:45,436 - INFO - Skipping invalid or completed row at index 667
+2025-05-23 17:18:45,436 - INFO - Skipping invalid or completed row at index 668
+2025-05-23 17:18:45,436 - INFO - Processing row 669
+2025-05-23 17:18:52,207 - INFO - Skipping invalid or completed row at index 670
+2025-05-23 17:18:52,208 - INFO - Skipping invalid or completed row at index 671
+2025-05-23 17:18:52,208 - INFO - Processing row 672
+2025-05-23 17:19:03,018 - INFO - Processing row 673
+2025-05-23 17:19:11,054 - INFO - Skipping invalid or completed row at index 674
+2025-05-23 17:19:11,054 - INFO - Processing row 675
+2025-05-23 17:20:00,978 - INFO - Processing row 676
+2025-05-23 17:20:51,087 - INFO - Processing row 677
+2025-05-23 17:21:01,381 - INFO - Processing row 678
+2025-05-23 17:21:51,387 - INFO - Skipping invalid or completed row at index 679
+2025-05-23 17:21:51,387 - INFO - Skipping invalid or completed row at index 680
+2025-05-23 17:21:51,387 - INFO - Processing row 681
+2025-05-23 17:21:59,337 - INFO - Processing row 682
+2025-05-23 17:22:12,869 - INFO - Skipping invalid or completed row at index 683
+2025-05-23 17:22:12,869 - INFO - Skipping invalid or completed row at index 684
+2025-05-23 17:22:12,869 - INFO - Skipping invalid or completed row at index 685
+2025-05-23 17:22:12,869 - INFO - Skipping invalid or completed row at index 686
+2025-05-23 17:22:12,869 - INFO - Skipping invalid or completed row at index 687
+2025-05-23 17:22:12,869 - INFO - Processing row 688
+2025-05-23 17:22:34,708 - INFO - Skipping invalid or completed row at index 689
+2025-05-23 17:22:34,709 - INFO - Skipping invalid or completed row at index 690
+2025-05-23 17:22:34,709 - INFO - Processing row 691
+2025-05-23 17:22:55,544 - INFO - Processing row 692
+2025-05-23 17:23:22,041 - INFO - Skipping invalid or completed row at index 693
+2025-05-23 17:23:22,042 - INFO - Skipping invalid or completed row at index 694
+2025-05-23 17:23:22,042 - INFO - Processing row 695
+2025-05-23 17:24:11,976 - INFO - Skipping invalid or completed row at index 696
+2025-05-23 17:24:11,977 - INFO - Processing row 697
+2025-05-23 17:24:22,237 - INFO - Skipping invalid or completed row at index 698
+2025-05-23 17:24:22,237 - INFO - Processing row 699
+2025-05-23 17:25:12,052 - INFO - Skipping invalid or completed row at index 700
+2025-05-23 17:25:12,052 - INFO - Processing row 701
+2025-05-23 17:25:25,258 - INFO - Skipping invalid or completed row at index 702
+2025-05-23 17:25:25,258 - INFO - Skipping invalid or completed row at index 703
+2025-05-23 17:25:25,258 - INFO - Skipping invalid or completed row at index 704
+2025-05-23 17:25:25,258 - INFO - Processing row 705
+2025-05-23 17:25:43,281 - INFO - Skipping invalid or completed row at index 706
+2025-05-23 17:25:43,281 - INFO - Skipping invalid or completed row at index 707
+2025-05-23 17:25:43,281 - INFO - Skipping invalid or completed row at index 708
+2025-05-23 17:25:43,281 - INFO - Skipping invalid or completed row at index 709
+2025-05-23 17:25:43,281 - INFO - Skipping invalid or completed row at index 710
+2025-05-23 17:25:43,281 - INFO - Processing row 711
+2025-05-23 17:26:33,233 - INFO - Skipping invalid or completed row at index 712
+2025-05-23 17:26:33,234 - INFO - Skipping invalid or completed row at index 713
+2025-05-23 17:26:33,234 - INFO - Skipping invalid or completed row at index 714
+2025-05-23 17:26:33,234 - INFO - Processing row 715
+2025-05-23 17:27:23,246 - INFO - Skipping invalid or completed row at index 716
+2025-05-23 17:27:23,246 - INFO - Skipping invalid or completed row at index 717
+2025-05-23 17:27:23,246 - INFO - Skipping invalid or completed row at index 718
+2025-05-23 17:27:23,246 - INFO - Processing row 719
+2025-05-23 17:28:13,131 - INFO - Skipping invalid or completed row at index 720
+2025-05-23 17:28:13,131 - INFO - Skipping invalid or completed row at index 721
+2025-05-23 17:28:13,131 - INFO - Skipping invalid or completed row at index 722
+2025-05-23 17:28:13,131 - INFO - Processing row 723
+2025-05-23 17:29:03,061 - INFO - Processing row 724
+2025-05-23 17:29:53,183 - INFO - Processing row 725
+2025-05-23 17:29:58,709 - INFO - Processing row 726
+2025-05-23 17:30:49,014 - INFO - Skipping invalid or completed row at index 727
+2025-05-23 17:30:49,015 - INFO - Skipping invalid or completed row at index 728
+2025-05-23 17:30:49,015 - INFO - Skipping invalid or completed row at index 729
+2025-05-23 17:30:49,015 - INFO - Processing row 730
+2025-05-23 17:31:38,967 - INFO - Processing row 731
+2025-05-23 17:32:29,017 - INFO - Processing row 732
+2025-05-23 17:33:19,304 - INFO - Skipping invalid or completed row at index 733
+2025-05-23 17:33:19,304 - INFO - Processing row 734
+2025-05-23 17:34:09,172 - INFO - Skipping invalid or completed row at index 735
+2025-05-23 17:34:09,172 - INFO - Skipping invalid or completed row at index 736
+2025-05-23 17:34:09,173 - INFO - Processing row 737
+2025-05-23 17:34:17,204 - INFO - Skipping invalid or completed row at index 738
+2025-05-23 17:34:17,204 - INFO - Skipping invalid or completed row at index 739
+2025-05-23 17:34:17,204 - INFO - Processing row 740
+2025-05-23 17:35:07,210 - INFO - Skipping invalid or completed row at index 741
+2025-05-23 17:35:07,210 - INFO - Skipping invalid or completed row at index 742
+2025-05-23 17:35:07,211 - INFO - Skipping invalid or completed row at index 743
+2025-05-23 17:35:07,211 - INFO - Processing row 744
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 745
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 746
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 747
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 748
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 749
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 750
+2025-05-23 17:35:18,998 - INFO - Skipping invalid or completed row at index 751
+2025-05-23 17:35:18,999 - INFO - Skipping invalid or completed row at index 752
+2025-05-23 17:35:18,999 - INFO - Processing row 753
+2025-05-23 17:36:09,051 - INFO - Skipping invalid or completed row at index 754
+2025-05-23 17:36:09,051 - INFO - Processing row 755
+2025-05-23 17:36:59,052 - INFO - Processing row 756
+2025-05-23 17:37:48,941 - INFO - Skipping invalid or completed row at index 757
+2025-05-23 17:37:48,941 - INFO - Skipping invalid or completed row at index 758
+2025-05-23 17:37:48,941 - INFO - Skipping invalid or completed row at index 759
+2025-05-23 17:37:48,941 - INFO - Skipping invalid or completed row at index 760
+2025-05-23 17:37:48,941 - INFO - Skipping invalid or completed row at index 761
+2025-05-23 17:37:48,941 - INFO - Processing row 762
+2025-05-23 17:38:38,885 - INFO - Skipping invalid or completed row at index 763
+2025-05-23 17:38:38,885 - INFO - Skipping invalid or completed row at index 764
+2025-05-23 17:38:38,886 - INFO - Skipping invalid or completed row at index 765
+2025-05-23 17:38:38,886 - INFO - Skipping invalid or completed row at index 766
+2025-05-23 17:38:38,886 - INFO - Processing row 767
+2025-05-23 17:39:29,008 - INFO - Processing row 768
+2025-05-23 17:39:36,287 - INFO - Skipping invalid or completed row at index 769
+2025-05-23 17:39:36,287 - INFO - Skipping invalid or completed row at index 770
+2025-05-23 17:39:36,287 - INFO - Processing row 771
+2025-05-23 17:40:26,272 - INFO - Skipping invalid or completed row at index 772
+2025-05-23 17:40:26,273 - INFO - Skipping invalid or completed row at index 773
+2025-05-23 17:40:26,273 - INFO - Processing row 774
+2025-05-23 17:40:54,970 - INFO - Skipping invalid or completed row at index 775
+2025-05-23 17:40:54,971 - INFO - Skipping invalid or completed row at index 776
+2025-05-23 17:40:54,971 - INFO - Processing row 777
+2025-05-23 17:41:44,918 - INFO - Processing row 778
+2025-05-23 17:42:02,148 - INFO - Skipping invalid or completed row at index 779
+2025-05-23 17:42:02,148 - INFO - Skipping invalid or completed row at index 780
+2025-05-23 17:42:02,149 - INFO - Skipping invalid or completed row at index 781
+2025-05-23 17:42:02,149 - INFO - Skipping invalid or completed row at index 782
+2025-05-23 17:42:02,149 - INFO - Skipping invalid or completed row at index 783
+2025-05-23 17:42:02,149 - INFO - Skipping invalid or completed row at index 784
+2025-05-23 17:42:02,149 - INFO - Skipping invalid or completed row at index 785
+2025-05-23 17:42:02,149 - INFO - Processing row 786
+2025-05-23 17:42:13,672 - INFO - Skipping invalid or completed row at index 787
+2025-05-23 17:42:13,672 - INFO - Processing row 788
+2025-05-23 17:42:26,447 - INFO - Skipping invalid or completed row at index 789
+2025-05-23 17:42:26,447 - INFO - Skipping invalid or completed row at index 790
+2025-05-23 17:42:26,448 - INFO - Processing row 791
+2025-05-23 17:42:32,330 - INFO - Skipping invalid or completed row at index 792
+2025-05-23 17:42:32,330 - INFO - Processing row 793
+2025-05-23 17:43:22,535 - INFO - Processing row 794
+2025-05-23 17:44:13,356 - INFO - Processing row 795
+2025-05-23 17:45:03,863 - INFO - Skipping invalid or completed row at index 796
+2025-05-23 17:45:03,864 - INFO - Processing row 797
+2025-05-23 17:45:53,935 - INFO - Skipping invalid or completed row at index 798
+2025-05-23 17:45:53,935 - INFO - Processing row 799
+2025-05-23 17:46:43,905 - INFO - Skipping invalid or completed row at index 800
+2025-05-23 17:46:43,906 - INFO - Skipping invalid or completed row at index 801
+2025-05-23 17:46:43,906 - INFO - Skipping invalid or completed row at index 802
+2025-05-23 17:46:43,906 - INFO - Processing row 803
+2025-05-23 17:47:34,260 - INFO - Processing row 804
+2025-05-23 17:48:21,038 - INFO - Skipping invalid or completed row at index 805
+2025-05-23 17:48:21,039 - INFO - Skipping invalid or completed row at index 806
+2025-05-23 17:48:21,039 - INFO - Skipping invalid or completed row at index 807
+2025-05-23 17:48:21,039 - INFO - Processing row 808
+2025-05-23 17:48:26,712 - INFO - Processing row 809
+2025-05-23 17:49:16,898 - INFO - Skipping invalid or completed row at index 810
+2025-05-23 17:49:16,898 - INFO - Skipping invalid or completed row at index 811
+2025-05-23 17:49:16,898 - INFO - Skipping invalid or completed row at index 812
+2025-05-23 17:49:16,898 - INFO - Skipping invalid or completed row at index 813
+2025-05-23 17:49:16,898 - INFO - Skipping invalid or completed row at index 814
+2025-05-23 17:49:16,898 - INFO - Skipping invalid or completed row at index 815
+2025-05-23 17:49:16,898 - INFO - Processing row 816
+2025-05-23 17:50:07,178 - INFO - Skipping invalid or completed row at index 817
+2025-05-23 17:50:07,179 - INFO - Skipping invalid or completed row at index 818
+2025-05-23 17:50:07,179 - INFO - Skipping invalid or completed row at index 819
+2025-05-23 17:50:07,179 - INFO - Processing row 820
+2025-05-23 17:50:57,320 - INFO - Processing row 821
+2025-05-23 17:51:47,517 - INFO - Skipping invalid or completed row at index 822
+2025-05-23 17:51:47,517 - INFO - Skipping invalid or completed row at index 823
+2025-05-23 17:51:47,518 - INFO - Skipping invalid or completed row at index 824
+2025-05-23 17:51:47,518 - INFO - Processing row 825
+2025-05-23 17:52:37,630 - INFO - Processing row 826
+2025-05-23 17:53:27,670 - INFO - Processing row 827
+2025-05-23 17:53:59,543 - INFO - Skipping invalid or completed row at index 828
+2025-05-23 17:53:59,544 - INFO - Skipping invalid or completed row at index 829
+2025-05-23 17:53:59,544 - INFO - Processing row 830
+2025-05-23 17:54:16,390 - INFO - Processing row 831
+2025-05-23 17:54:30,950 - INFO - Processing row 832
+2025-05-23 17:55:21,261 - INFO - Skipping invalid or completed row at index 833
+2025-05-23 17:55:21,261 - INFO - Processing row 834
+2025-05-23 17:56:11,327 - INFO - Processing row 835
+2025-05-23 17:56:29,756 - INFO - Skipping invalid or completed row at index 836
+2025-05-23 17:56:29,756 - INFO - Processing row 837
+2025-05-23 17:56:48,136 - INFO - Skipping invalid or completed row at index 838
+2025-05-23 17:56:48,136 - INFO - Skipping invalid or completed row at index 839
+2025-05-23 17:56:48,136 - INFO - Skipping invalid or completed row at index 840
+2025-05-23 17:56:48,136 - INFO - Processing row 841
+2025-05-23 17:57:38,740 - INFO - Processing row 842
+2025-05-23 17:58:29,725 - INFO - Skipping invalid or completed row at index 843
+2025-05-23 17:58:29,726 - INFO - Processing row 844
+2025-05-23 17:59:19,665 - INFO - Skipping invalid or completed row at index 845
+2025-05-23 17:59:19,666 - INFO - Processing row 846
+2025-05-23 17:59:33,031 - INFO - Processing row 847
+2025-05-23 18:00:22,945 - INFO - Skipping invalid or completed row at index 848
+2025-05-23 18:00:22,945 - INFO - Skipping invalid or completed row at index 849
+2025-05-23 18:00:22,945 - INFO - Processing row 850
+2025-05-23 18:00:39,483 - INFO - Processing row 851
+2025-05-23 18:00:54,250 - INFO - Skipping invalid or completed row at index 852
+2025-05-23 18:00:54,250 - INFO - Skipping invalid or completed row at index 853
+2025-05-23 18:00:54,250 - INFO - Processing row 854
+2025-05-23 18:01:06,260 - INFO - Processing row 855
+2025-05-23 18:01:30,932 - INFO - Skipping invalid or completed row at index 856
+2025-05-23 18:01:30,932 - INFO - Processing row 857
+2025-05-23 18:01:51,842 - INFO - Processing row 858
+2025-05-23 18:02:41,323 - INFO - Processing row 859
+2025-05-23 18:03:30,878 - INFO - Processing row 860
+2025-05-23 18:04:20,423 - INFO - Skipping invalid or completed row at index 861
+2025-05-23 18:04:20,423 - INFO - Skipping invalid or completed row at index 862
+2025-05-23 18:04:20,423 - INFO - Skipping invalid or completed row at index 863
+2025-05-23 18:04:20,424 - INFO - Skipping invalid or completed row at index 864
+2025-05-23 18:04:20,424 - INFO - Skipping invalid or completed row at index 865
+2025-05-23 18:04:20,424 - INFO - Skipping invalid or completed row at index 866
+2025-05-23 18:04:20,424 - INFO - Processing row 867
+2025-05-23 18:05:10,005 - INFO - Skipping invalid or completed row at index 868
+2025-05-23 18:05:10,005 - INFO - Processing row 869
+2025-05-23 18:05:59,511 - INFO - Processing row 870
+2025-05-23 18:06:48,944 - INFO - Skipping invalid or completed row at index 871
+2025-05-23 18:06:48,944 - INFO - Processing row 872
+2025-05-23 18:07:00,449 - INFO - Skipping invalid or completed row at index 873
+2025-05-23 18:07:00,450 - INFO - Processing row 874
+2025-05-23 18:07:50,159 - INFO - Processing row 875
+2025-05-23 18:08:39,745 - INFO - Skipping invalid or completed row at index 876
+2025-05-23 18:08:39,745 - INFO - Processing row 877
+2025-05-23 18:09:19,735 - INFO - Processing row 878
+2025-05-23 18:10:09,346 - INFO - Skipping invalid or completed row at index 879
+2025-05-23 18:10:09,346 - INFO - Skipping invalid or completed row at index 880
+2025-05-23 18:10:09,347 - INFO - Skipping invalid or completed row at index 881
+2025-05-23 18:10:09,347 - INFO - Processing row 882
+2025-05-23 18:10:58,839 - INFO - Processing row 883
+2025-05-23 18:11:48,256 - INFO - Skipping invalid or completed row at index 884
+2025-05-23 18:11:48,256 - INFO - Processing row 885
+2025-05-23 18:11:59,340 - INFO - Skipping invalid or completed row at index 886
+2025-05-23 18:11:59,340 - INFO - Skipping invalid or completed row at index 887
+2025-05-23 18:11:59,341 - INFO - Skipping invalid or completed row at index 888
+2025-05-23 18:11:59,341 - INFO - Skipping invalid or completed row at index 889
+2025-05-23 18:11:59,341 - INFO - Processing row 890
+2025-05-23 18:12:49,235 - INFO - Skipping invalid or completed row at index 891
+2025-05-23 18:12:49,235 - INFO - Skipping invalid or completed row at index 892
+2025-05-23 18:12:49,235 - INFO - Processing row 893
+2025-05-23 18:13:07,211 - INFO - Skipping invalid or completed row at index 894
+2025-05-23 18:13:07,211 - INFO - Skipping invalid or completed row at index 895
+2025-05-23 18:13:07,211 - INFO - Skipping invalid or completed row at index 896
+2025-05-23 18:13:07,212 - INFO - Skipping invalid or completed row at index 897
+2025-05-23 18:13:07,212 - INFO - Skipping invalid or completed row at index 898
+2025-05-23 18:13:07,212 - INFO - Skipping invalid or completed row at index 899
+2025-05-23 18:13:07,212 - INFO - Processing row 900
+2025-05-23 18:13:56,579 - INFO - Skipping invalid or completed row at index 901
+2025-05-23 18:13:56,579 - INFO - Skipping invalid or completed row at index 902
+2025-05-23 18:13:56,579 - INFO - Skipping invalid or completed row at index 903
+2025-05-23 18:13:56,579 - INFO - Processing row 904
+2025-05-23 18:14:08,275 - INFO - Skipping invalid or completed row at index 905
+2025-05-23 18:14:08,275 - INFO - Skipping invalid or completed row at index 906
+2025-05-23 18:14:08,275 - INFO - Skipping invalid or completed row at index 907
+2025-05-23 18:14:08,275 - INFO - Skipping invalid or completed row at index 908
+2025-05-23 18:14:08,275 - INFO - Skipping invalid or completed row at index 909
+2025-05-23 18:14:08,276 - INFO - Skipping invalid or completed row at index 910
+2025-05-23 18:14:08,276 - INFO - Processing row 911
+2025-05-23 18:14:18,806 - INFO - Skipping invalid or completed row at index 912
+2025-05-23 18:14:18,806 - INFO - Skipping invalid or completed row at index 913
+2025-05-23 18:14:18,806 - INFO - Skipping invalid or completed row at index 914
+2025-05-23 18:14:18,806 - INFO - Skipping invalid or completed row at index 915
+2025-05-23 18:14:18,806 - INFO - Skipping invalid or completed row at index 916
+2025-05-23 18:14:18,806 - INFO - Skipping invalid or completed row at index 917
+2025-05-23 18:14:18,807 - INFO - Skipping invalid or completed row at index 918
+2025-05-23 18:14:18,807 - INFO - Processing row 919
+2025-05-23 18:15:08,300 - INFO - Skipping invalid or completed row at index 920
+2025-05-23 18:15:08,300 - INFO - Skipping invalid or completed row at index 921
+2025-05-23 18:15:08,300 - INFO - Processing row 922
+2025-05-23 18:15:57,718 - INFO - Skipping invalid or completed row at index 923
+2025-05-23 18:15:57,718 - INFO - Processing row 924
+2025-05-23 18:16:47,136 - INFO - Processing row 925
+2025-05-23 18:17:03,829 - INFO - Skipping invalid or completed row at index 926
+2025-05-23 18:17:03,830 - INFO - Skipping invalid or completed row at index 927
+2025-05-23 18:17:03,830 - INFO - Processing row 928
+2025-05-23 18:17:53,279 - INFO - Skipping invalid or completed row at index 929
+2025-05-23 18:17:53,279 - INFO - Processing row 930
+2025-05-23 18:18:01,985 - INFO - Skipping invalid or completed row at index 931
+2025-05-23 18:18:01,985 - INFO - Skipping invalid or completed row at index 932
+2025-05-23 18:18:01,985 - INFO - Skipping invalid or completed row at index 933
+2025-05-23 18:18:01,985 - INFO - Skipping invalid or completed row at index 934
+2025-05-23 18:18:01,985 - INFO - Skipping invalid or completed row at index 935
+2025-05-23 18:18:01,985 - INFO - Processing row 936
+2025-05-23 18:18:51,499 - INFO - Processing row 937
+2025-05-23 18:18:59,291 - INFO - Skipping invalid or completed row at index 938
+2025-05-23 18:18:59,291 - INFO - Skipping invalid or completed row at index 939
+2025-05-23 18:18:59,291 - INFO - Processing row 940
+2025-05-23 18:19:48,719 - INFO - Processing row 941
+2025-05-23 18:20:01,427 - INFO - Skipping invalid or completed row at index 942
+2025-05-23 18:20:01,427 - INFO - Skipping invalid or completed row at index 943
+2025-05-23 18:20:01,427 - INFO - Processing row 944
+2025-05-23 18:20:50,769 - INFO - Skipping invalid or completed row at index 945
+2025-05-23 18:20:50,770 - INFO - Processing row 946
+2025-05-23 18:20:58,558 - INFO - Skipping invalid or completed row at index 947
+2025-05-23 18:20:58,558 - INFO - Skipping invalid or completed row at index 948
+2025-05-23 18:20:58,558 - INFO - Processing row 949
+2025-05-23 18:21:48,068 - INFO - Processing row 950
+2025-05-23 18:22:36,995 - INFO - Skipping invalid or completed row at index 951
+2025-05-23 18:22:36,996 - INFO - Processing row 952
+2025-05-23 18:22:44,477 - INFO - Skipping invalid or completed row at index 953
+2025-05-23 18:22:44,477 - INFO - Skipping invalid or completed row at index 954
+2025-05-23 18:22:44,477 - INFO - Skipping invalid or completed row at index 955
+2025-05-23 18:22:44,477 - INFO - Skipping invalid or completed row at index 956
+2025-05-23 18:22:44,478 - INFO - Processing row 957
+2025-05-23 18:23:33,479 - INFO - Processing row 958
+2025-05-23 18:23:39,580 - INFO - Processing row 959
+2025-05-23 18:24:28,577 - INFO - Processing row 960
+2025-05-23 18:24:43,001 - INFO - Processing row 961
+2025-05-23 18:24:54,418 - INFO - Skipping invalid or completed row at index 962
+2025-05-23 18:24:54,418 - INFO - Processing row 963
+2025-05-23 18:25:01,949 - INFO - Skipping invalid or completed row at index 964
+2025-05-23 18:25:01,950 - INFO - Skipping invalid or completed row at index 965
+2025-05-23 18:25:01,950 - INFO - Processing row 966
+2025-05-23 18:25:18,968 - INFO - Processing row 967
+2025-05-23 18:26:07,788 - INFO - Skipping invalid or completed row at index 968
+2025-05-23 18:26:07,789 - INFO - Processing row 969
+2025-05-23 18:26:56,538 - INFO - Skipping invalid or completed row at index 970
+2025-05-23 18:26:56,539 - INFO - Skipping invalid or completed row at index 971
+2025-05-23 18:26:56,539 - INFO - Processing row 972
+2025-05-23 18:27:09,591 - INFO - Processing row 973
+2025-05-23 18:27:58,444 - INFO - Skipping invalid or completed row at index 974
+2025-05-23 18:27:58,445 - INFO - Skipping invalid or completed row at index 975
+2025-05-23 18:27:58,445 - INFO - Processing row 976
+2025-05-23 18:28:07,004 - INFO - Skipping invalid or completed row at index 977
+2025-05-23 18:28:07,004 - INFO - Skipping invalid or completed row at index 978
+2025-05-23 18:28:07,004 - INFO - Skipping invalid or completed row at index 979
+2025-05-23 18:28:07,005 - INFO - Skipping invalid or completed row at index 980
+2025-05-23 18:28:07,005 - INFO - Skipping invalid or completed row at index 981
+2025-05-23 18:28:07,005 - INFO - Processing row 982
+2025-05-23 18:28:55,746 - INFO - Processing row 983
+2025-05-23 18:29:44,549 - INFO - Skipping invalid or completed row at index 984
+2025-05-23 18:29:44,550 - INFO - Skipping invalid or completed row at index 985
+2025-05-23 18:29:44,550 - INFO - Skipping invalid or completed row at index 986
+2025-05-23 18:29:44,550 - INFO - Skipping invalid or completed row at index 987
+2025-05-23 18:29:44,550 - INFO - Processing row 988
+2025-05-23 18:30:33,393 - INFO - Processing row 989
+2025-05-23 18:30:49,615 - INFO - Processing row 990
+2025-05-23 18:31:06,112 - INFO - Processing row 991
+2025-05-23 18:31:21,402 - INFO - Skipping invalid or completed row at index 992
+2025-05-23 18:31:21,402 - INFO - Processing row 993
+2025-05-23 18:32:10,231 - INFO - Processing row 994
+2025-05-23 18:32:59,115 - INFO - Skipping invalid or completed row at index 995
+2025-05-23 18:32:59,115 - INFO - Processing row 996
+2025-05-23 18:33:48,023 - INFO - Skipping invalid or completed row at index 997
+2025-05-23 18:33:48,023 - INFO - Processing row 998
+2025-05-23 18:34:00,481 - INFO - Processing row 999
+2025-05-23 18:34:08,083 - INFO - Skipping invalid or completed row at index 1000
+2025-05-23 18:34:08,083 - INFO - Skipping invalid or completed row at index 1001
+2025-05-23 18:34:08,083 - INFO - Processing row 1002
+2025-05-23 18:34:23,219 - INFO - Processing row 1003
+2025-05-23 18:35:11,520 - INFO - Processing row 1004
+2025-05-23 18:35:59,768 - INFO - Processing row 1005
+2025-05-23 18:36:11,381 - INFO - Skipping invalid or completed row at index 1006
+2025-05-23 18:36:11,381 - INFO - Processing row 1007
+2025-05-23 18:36:20,921 - INFO - Skipping invalid or completed row at index 1008
+2025-05-23 18:36:20,921 - INFO - Skipping invalid or completed row at index 1009
+2025-05-23 18:36:20,921 - INFO - Skipping invalid or completed row at index 1010
+2025-05-23 18:36:20,922 - INFO - Skipping invalid or completed row at index 1011
+2025-05-23 18:36:20,922 - INFO - Skipping invalid or completed row at index 1012
+2025-05-23 18:36:20,922 - INFO - Processing row 1013
+2025-05-23 18:37:09,264 - INFO - Skipping invalid or completed row at index 1014
+2025-05-23 18:37:09,265 - INFO - Processing row 1015
+2025-05-23 18:37:57,422 - INFO - Skipping invalid or completed row at index 1016
+2025-05-23 18:37:57,423 - INFO - Skipping invalid or completed row at index 1017
+2025-05-23 18:37:57,423 - INFO - Skipping invalid or completed row at index 1018
+2025-05-23 18:37:57,423 - INFO - Skipping invalid or completed row at index 1019
+2025-05-23 18:37:57,423 - INFO - Skipping invalid or completed row at index 1020
+2025-05-23 18:37:57,423 - INFO - Processing row 1021
+2025-05-23 18:38:45,536 - INFO - Skipping invalid or completed row at index 1022
+2025-05-23 18:38:45,537 - INFO - Skipping invalid or completed row at index 1023
+2025-05-23 18:38:45,537 - INFO - Skipping invalid or completed row at index 1024
+2025-05-23 18:38:45,537 - INFO - Processing row 1025
+2025-05-23 18:38:53,563 - INFO - Skipping invalid or completed row at index 1026
+2025-05-23 18:38:53,563 - INFO - Skipping invalid or completed row at index 1027
+2025-05-23 18:38:53,563 - INFO - Skipping invalid or completed row at index 1028
+2025-05-23 18:38:53,563 - INFO - Skipping invalid or completed row at index 1029
+2025-05-23 18:38:53,563 - INFO - Skipping invalid or completed row at index 1030
+2025-05-23 18:38:53,564 - INFO - Skipping invalid or completed row at index 1031
+2025-05-23 18:38:53,564 - INFO - Processing row 1032
+2025-05-23 18:39:02,341 - INFO - Skipping invalid or completed row at index 1033
+2025-05-23 18:39:02,341 - INFO - Processing row 1034
+2025-05-23 18:39:50,574 - INFO - Skipping invalid or completed row at index 1035
+2025-05-23 18:39:50,575 - INFO - Skipping invalid or completed row at index 1036
+2025-05-23 18:39:50,575 - INFO - Skipping invalid or completed row at index 1037
+2025-05-23 18:39:50,575 - INFO - Processing row 1038
+2025-05-23 18:40:01,585 - INFO - Processing row 1039
+2025-05-23 18:40:49,807 - INFO - Skipping invalid or completed row at index 1040
+2025-05-23 18:40:49,808 - INFO - Skipping invalid or completed row at index 1041
+2025-05-23 18:40:49,808 - INFO - Processing row 1042
+2025-05-23 18:41:38,078 - INFO - Skipping invalid or completed row at index 1043
+2025-05-23 18:41:38,079 - INFO - Skipping invalid or completed row at index 1044
+2025-05-23 18:41:38,079 - INFO - Skipping invalid or completed row at index 1045
+2025-05-23 18:41:38,079 - INFO - Processing row 1046
+2025-05-23 18:41:43,242 - INFO - Skipping invalid or completed row at index 1047
+2025-05-23 18:41:43,242 - INFO - Processing row 1048
+2025-05-23 18:42:31,401 - INFO - Processing row 1049
+2025-05-23 18:42:49,062 - INFO - Processing row 1050
+2025-05-23 18:43:02,507 - INFO - Processing row 1051
+2025-05-23 18:43:51,359 - INFO - Skipping invalid or completed row at index 1052
+2025-05-23 18:43:51,359 - INFO - Skipping invalid or completed row at index 1053
+2025-05-23 18:43:51,359 - INFO - Skipping invalid or completed row at index 1054
+2025-05-23 18:43:51,359 - INFO - Skipping invalid or completed row at index 1055
+2025-05-23 18:43:51,359 - INFO - Skipping invalid or completed row at index 1056
+2025-05-23 18:43:51,360 - INFO - Processing row 1057
+2025-05-23 18:44:39,740 - INFO - Processing row 1058
+2025-05-23 18:45:27,973 - INFO - Skipping invalid or completed row at index 1059
+2025-05-23 18:45:27,974 - INFO - Skipping invalid or completed row at index 1060
+2025-05-23 18:45:27,974 - INFO - Skipping invalid or completed row at index 1061
+2025-05-23 18:45:27,974 - INFO - Processing row 1062
+2025-05-23 18:46:16,414 - INFO - Processing row 1063
+2025-05-23 18:47:05,155 - INFO - Skipping invalid or completed row at index 1064
+2025-05-23 18:47:05,156 - INFO - Processing row 1065
+2025-05-23 18:47:53,648 - INFO - Processing row 1066
+2025-05-23 18:48:42,372 - INFO - Processing row 1067
+2025-05-23 18:49:02,809 - INFO - Processing row 1068
+2025-05-23 18:49:51,758 - INFO - Skipping invalid or completed row at index 1069
+2025-05-23 18:49:51,758 - INFO - Processing row 1070
+2025-05-23 18:49:58,941 - INFO - Skipping invalid or completed row at index 1071
+2025-05-23 18:49:58,941 - INFO - Skipping invalid or completed row at index 1072
+2025-05-23 18:49:58,941 - INFO - Skipping invalid or completed row at index 1073
+2025-05-23 18:49:58,941 - INFO - Processing row 1074
+2025-05-23 18:50:47,358 - INFO - Processing row 1075
+2025-05-23 18:50:57,597 - INFO - Skipping invalid or completed row at index 1076
+2025-05-23 18:50:57,597 - INFO - Skipping invalid or completed row at index 1077
+2025-05-23 18:50:57,597 - INFO - Skipping invalid or completed row at index 1078
+2025-05-23 18:50:57,597 - INFO - Skipping invalid or completed row at index 1079
+2025-05-23 18:50:57,597 - INFO - Processing row 1080
+2025-05-23 18:51:08,581 - INFO - Skipping invalid or completed row at index 1081
+2025-05-23 18:51:08,582 - INFO - Processing row 1082
+2025-05-23 18:51:56,904 - INFO - Processing row 1083
+2025-05-23 18:52:13,451 - INFO - Skipping invalid or completed row at index 1084
+2025-05-23 18:52:13,451 - INFO - Skipping invalid or completed row at index 1085
+2025-05-23 18:52:13,451 - INFO - Processing row 1086
+2025-05-23 18:53:01,746 - INFO - Skipping invalid or completed row at index 1087
+2025-05-23 18:53:01,746 - INFO - Skipping invalid or completed row at index 1088
+2025-05-23 18:53:01,746 - INFO - Skipping invalid or completed row at index 1089
+2025-05-23 18:53:01,746 - INFO - Processing row 1090
+2025-05-23 18:53:12,436 - INFO - Processing row 1091
+2025-05-23 18:53:25,638 - INFO - Skipping invalid or completed row at index 1092
+2025-05-23 18:53:25,638 - INFO - Skipping invalid or completed row at index 1093
+2025-05-23 18:53:25,638 - INFO - Skipping invalid or completed row at index 1094
+2025-05-23 18:53:25,638 - INFO - Processing row 1095
+2025-05-23 18:54:14,261 - INFO - Processing row 1096
+2025-05-23 18:54:29,827 - INFO - Processing row 1097
+2025-05-23 18:55:01,025 - INFO - Skipping invalid or completed row at index 1098
+2025-05-23 18:55:01,025 - INFO - Processing row 1099
+2025-05-23 18:55:29,834 - INFO - Skipping invalid or completed row at index 1100
+2025-05-23 18:55:29,834 - INFO - Skipping invalid or completed row at index 1101
+2025-05-23 18:55:29,834 - INFO - Processing row 1102
+2025-05-23 18:55:39,869 - INFO - Skipping invalid or completed row at index 1103
+2025-05-23 18:55:39,869 - INFO - Skipping invalid or completed row at index 1104
+2025-05-23 18:55:39,870 - INFO - Processing row 1105
+2025-05-23 18:55:53,088 - INFO - Processing row 1106
+2025-05-23 18:56:41,850 - INFO - Skipping invalid or completed row at index 1107
+2025-05-23 18:56:41,851 - INFO - Processing row 1108
+2025-05-23 18:57:30,193 - INFO - Skipping invalid or completed row at index 1109
+2025-05-23 18:57:30,193 - INFO - Processing row 1110
+2025-05-23 18:57:41,024 - INFO - Skipping invalid or completed row at index 1111
+2025-05-23 18:57:41,025 - INFO - Skipping invalid or completed row at index 1112
+2025-05-23 18:57:41,025 - INFO - Processing row 1113
+2025-05-23 18:57:51,030 - INFO - Skipping invalid or completed row at index 1114
+2025-05-23 18:57:51,030 - INFO - Skipping invalid or completed row at index 1115
+2025-05-23 18:57:51,030 - INFO - Skipping invalid or completed row at index 1116
+2025-05-23 18:57:51,030 - INFO - Skipping invalid or completed row at index 1117
+2025-05-23 18:57:51,030 - INFO - Processing row 1118
+2025-05-23 18:58:39,239 - INFO - Skipping invalid or completed row at index 1119
+2025-05-23 18:58:39,239 - INFO - Processing row 1120
+2025-05-23 18:59:27,958 - INFO - Skipping invalid or completed row at index 1121
+2025-05-23 18:59:27,958 - INFO - Skipping invalid or completed row at index 1122
+2025-05-23 18:59:27,958 - INFO - Processing row 1123
+2025-05-23 18:59:50,256 - INFO - Processing row 1124
+2025-05-23 19:00:08,166 - INFO - Processing row 1125
+2025-05-23 19:00:14,866 - INFO - Skipping invalid or completed row at index 1126
+2025-05-23 19:00:14,867 - INFO - Skipping invalid or completed row at index 1127
+2025-05-23 19:00:14,867 - INFO - Processing row 1128
+2025-05-23 19:01:03,608 - INFO - Processing row 1129
+2025-05-23 19:01:53,048 - INFO - Skipping invalid or completed row at index 1130
+2025-05-23 19:01:53,049 - INFO - Skipping invalid or completed row at index 1131
+2025-05-23 19:01:53,049 - INFO - Skipping invalid or completed row at index 1132
+2025-05-23 19:01:53,049 - INFO - Processing row 1133
+2025-05-23 19:02:42,809 - INFO - Skipping invalid or completed row at index 1134
+2025-05-23 19:02:42,809 - INFO - Skipping invalid or completed row at index 1135
+2025-05-23 19:02:42,809 - INFO - Skipping invalid or completed row at index 1136
+2025-05-23 19:02:42,809 - INFO - Processing row 1137
+2025-05-23 19:03:31,700 - INFO - Processing row 1138
+2025-05-23 19:04:20,120 - INFO - Skipping invalid or completed row at index 1139
+2025-05-23 19:04:20,120 - INFO - Processing row 1140
+2025-05-23 19:05:08,365 - INFO - Processing row 1141
+2025-05-23 19:05:23,321 - INFO - Skipping invalid or completed row at index 1142
+2025-05-23 19:05:23,322 - INFO - Processing row 1143
+2025-05-23 19:06:12,118 - INFO - Processing row 1144
+2025-05-23 19:07:02,191 - INFO - Skipping invalid or completed row at index 1145
+2025-05-23 19:07:02,191 - INFO - Skipping invalid or completed row at index 1146
+2025-05-23 19:07:02,191 - INFO - Processing row 1147
+2025-05-23 19:07:15,365 - INFO - Processing row 1148
+2025-05-23 19:07:22,161 - INFO - Processing row 1149
+2025-05-23 19:08:11,038 - INFO - Skipping invalid or completed row at index 1150
+2025-05-23 19:08:11,039 - INFO - Processing row 1151
+2025-05-23 19:08:21,872 - INFO - Skipping invalid or completed row at index 1152
+2025-05-23 19:08:21,872 - INFO - Processing row 1153
+2025-05-23 19:09:10,974 - INFO - Processing row 1154
+2025-05-23 19:09:24,731 - INFO - Skipping invalid or completed row at index 1155
+2025-05-23 19:09:24,731 - INFO - Skipping invalid or completed row at index 1156
+2025-05-23 19:09:24,731 - INFO - Processing row 1157
+2025-05-23 19:10:13,640 - INFO - Processing row 1158
+2025-05-23 19:11:02,328 - INFO - Skipping invalid or completed row at index 1159
+2025-05-23 19:11:02,329 - INFO - Processing row 1160
+2025-05-23 19:11:51,135 - INFO - Skipping invalid or completed row at index 1161
+2025-05-23 19:11:51,135 - INFO - Skipping invalid or completed row at index 1162
+2025-05-23 19:11:51,135 - INFO - Skipping invalid or completed row at index 1163
+2025-05-23 19:11:51,135 - INFO - Processing row 1164
+2025-05-23 19:12:39,868 - INFO - Processing row 1165
+2025-05-23 19:13:29,162 - INFO - Skipping invalid or completed row at index 1166
+2025-05-23 19:13:29,162 - INFO - Processing row 1167
+2025-05-23 19:14:18,021 - INFO - Skipping invalid or completed row at index 1168
+2025-05-23 19:14:18,022 - INFO - Skipping invalid or completed row at index 1169
+2025-05-23 19:14:18,022 - INFO - Skipping invalid or completed row at index 1170
+2025-05-23 19:14:18,022 - INFO - Processing row 1171
+2025-05-23 19:14:31,498 - INFO - Skipping invalid or completed row at index 1172
+2025-05-23 19:14:31,499 - INFO - Skipping invalid or completed row at index 1173
+2025-05-23 19:14:31,499 - INFO - Processing row 1174
+2025-05-23 19:15:20,705 - INFO - Skipping invalid or completed row at index 1175
+2025-05-23 19:15:20,705 - INFO - Skipping invalid or completed row at index 1176
+2025-05-23 19:15:20,706 - INFO - Processing row 1177
+2025-05-23 19:15:37,751 - INFO - Skipping invalid or completed row at index 1178
+2025-05-23 19:15:37,751 - INFO - Skipping invalid or completed row at index 1179
+2025-05-23 19:15:37,752 - INFO - Processing row 1180
+2025-05-23 19:15:49,960 - INFO - Skipping invalid or completed row at index 1181
+2025-05-23 19:15:49,960 - INFO - Skipping invalid or completed row at index 1182
+2025-05-23 19:15:49,960 - INFO - Skipping invalid or completed row at index 1183
+2025-05-23 19:15:49,960 - INFO - Skipping invalid or completed row at index 1184
+2025-05-23 19:15:49,960 - INFO - Processing row 1185
+2025-05-23 19:16:38,774 - INFO - Skipping invalid or completed row at index 1186
+2025-05-23 19:16:38,774 - INFO - Skipping invalid or completed row at index 1187
+2025-05-23 19:16:38,774 - INFO - Processing row 1188
+2025-05-23 19:17:27,442 - INFO - Skipping invalid or completed row at index 1189
+2025-05-23 19:17:27,442 - INFO - Skipping invalid or completed row at index 1190
+2025-05-23 19:17:27,442 - INFO - Skipping invalid or completed row at index 1191
+2025-05-23 19:17:27,442 - INFO - Processing row 1192
+2025-05-23 19:17:44,893 - INFO - Skipping invalid or completed row at index 1193
+2025-05-23 19:17:44,894 - INFO - Processing row 1194
+2025-05-23 19:18:33,872 - INFO - Skipping invalid or completed row at index 1195
+2025-05-23 19:18:33,873 - INFO - Skipping invalid or completed row at index 1196
+2025-05-23 19:18:33,873 - INFO - Skipping invalid or completed row at index 1197
+2025-05-23 19:18:33,873 - INFO - Skipping invalid or completed row at index 1198
+2025-05-23 19:18:33,873 - INFO - Processing row 1199
+2025-05-23 19:18:49,247 - INFO - Skipping invalid or completed row at index 1200
+2025-05-23 19:18:49,247 - INFO - Skipping invalid or completed row at index 1201
+2025-05-23 19:18:49,247 - INFO - Skipping invalid or completed row at index 1202
+2025-05-23 19:18:49,247 - INFO - Skipping invalid or completed row at index 1203
+2025-05-23 19:18:49,247 - INFO - Processing row 1204
+2025-05-23 19:19:20,356 - INFO - Processing row 1205
+2025-05-23 19:19:38,580 - INFO - Skipping invalid or completed row at index 1206
+2025-05-23 19:19:38,580 - INFO - Skipping invalid or completed row at index 1207
+2025-05-23 19:19:38,581 - INFO - Skipping invalid or completed row at index 1208
+2025-05-23 19:19:38,581 - INFO - Skipping invalid or completed row at index 1209
+2025-05-23 19:19:38,581 - INFO - Skipping invalid or completed row at index 1210
+2025-05-23 19:19:38,581 - INFO - Skipping invalid or completed row at index 1211
+2025-05-23 19:19:38,581 - INFO - Skipping invalid or completed row at index 1212
+2025-05-23 19:19:38,581 - INFO - Processing row 1213
+2025-05-23 19:19:47,677 - INFO - Skipping invalid or completed row at index 1214
+2025-05-23 19:19:47,677 - INFO - Skipping invalid or completed row at index 1215
+2025-05-23 19:19:47,677 - INFO - Processing row 1216
+2025-05-23 19:19:58,558 - INFO - Skipping invalid or completed row at index 1217
+2025-05-23 19:19:58,559 - INFO - Skipping invalid or completed row at index 1218
+2025-05-23 19:19:58,559 - INFO - Skipping invalid or completed row at index 1219
+2025-05-23 19:19:58,559 - INFO - Processing row 1220
+2025-05-23 19:20:23,565 - INFO - Processing row 1221
+2025-05-23 19:20:32,059 - INFO - Skipping invalid or completed row at index 1222
+2025-05-23 19:20:32,059 - INFO - Skipping invalid or completed row at index 1223
+2025-05-23 19:20:32,059 - INFO - Skipping invalid or completed row at index 1224
+2025-05-23 19:20:32,059 - INFO - Processing row 1225
+2025-05-23 19:21:21,676 - INFO - Processing row 1226
+2025-05-23 19:21:46,813 - INFO - Skipping invalid or completed row at index 1227
+2025-05-23 19:21:46,814 - INFO - Skipping invalid or completed row at index 1228
+2025-05-23 19:21:46,814 - INFO - Skipping invalid or completed row at index 1229
+2025-05-23 19:21:46,814 - INFO - Processing row 1230
+2025-05-23 19:22:01,892 - INFO - Skipping invalid or completed row at index 1231
+2025-05-23 19:22:01,892 - INFO - Skipping invalid or completed row at index 1232
+2025-05-23 19:22:01,892 - INFO - Processing row 1233
+2025-05-23 19:22:11,949 - INFO - Skipping invalid or completed row at index 1234
+2025-05-23 19:22:11,950 - INFO - Processing row 1235
+2025-05-23 19:23:01,239 - INFO - Skipping invalid or completed row at index 1236
+2025-05-23 19:23:01,240 - INFO - Processing row 1237
+2025-05-23 19:23:16,833 - INFO - Processing row 1238
+2025-05-23 19:24:05,927 - INFO - Skipping invalid or completed row at index 1239
+2025-05-23 19:24:05,927 - INFO - Skipping invalid or completed row at index 1240
+2025-05-23 19:24:05,927 - INFO - Skipping invalid or completed row at index 1241
+2025-05-23 19:24:05,928 - INFO - Skipping invalid or completed row at index 1242
+2025-05-23 19:24:05,928 - INFO - Processing row 1243
+2025-05-23 19:24:54,967 - INFO - Processing row 1244
+2025-05-23 19:25:44,251 - INFO - Skipping invalid or completed row at index 1245
+2025-05-23 19:25:44,251 - INFO - Processing row 1246
+2025-05-23 19:25:55,606 - INFO - Processing row 1247
+2025-05-23 19:26:01,832 - INFO - Skipping invalid or completed row at index 1248
+2025-05-23 19:26:01,832 - INFO - Processing row 1249
+2025-05-23 19:26:09,205 - INFO - Skipping invalid or completed row at index 1250
+2025-05-23 19:26:09,205 - INFO - Skipping invalid or completed row at index 1251
+2025-05-23 19:26:09,205 - INFO - Skipping invalid or completed row at index 1252
+2025-05-23 19:26:09,206 - INFO - Skipping invalid or completed row at index 1253
+2025-05-23 19:26:09,206 - INFO - Skipping invalid or completed row at index 1254
+2025-05-23 19:26:09,206 - INFO - Skipping invalid or completed row at index 1255
+2025-05-23 19:26:09,206 - INFO - Processing row 1256
+2025-05-23 19:26:58,336 - INFO - Skipping invalid or completed row at index 1257
+2025-05-23 19:26:58,337 - INFO - Skipping invalid or completed row at index 1258
+2025-05-23 19:26:58,337 - INFO - Skipping invalid or completed row at index 1259
+2025-05-23 19:26:58,337 - INFO - Skipping invalid or completed row at index 1260
+2025-05-23 19:26:58,337 - INFO - Processing row 1261
+2025-05-23 19:27:08,777 - INFO - Skipping invalid or completed row at index 1262
+2025-05-23 19:27:08,777 - INFO - Skipping invalid or completed row at index 1263
+2025-05-23 19:27:08,778 - INFO - Processing row 1264
+2025-05-23 19:27:57,690 - INFO - Skipping invalid or completed row at index 1265
+2025-05-23 19:27:57,690 - INFO - Processing row 1266
+2025-05-23 19:28:46,740 - INFO - Skipping invalid or completed row at index 1267
+2025-05-23 19:28:46,740 - INFO - Skipping invalid or completed row at index 1268
+2025-05-23 19:28:46,740 - INFO - Skipping invalid or completed row at index 1269
+2025-05-23 19:28:46,740 - INFO - Processing row 1270
+2025-05-23 19:28:56,823 - INFO - Processing row 1271
+2025-05-23 19:29:08,400 - INFO - Skipping invalid or completed row at index 1272
+2025-05-23 19:29:08,401 - INFO - Skipping invalid or completed row at index 1273
+2025-05-23 19:29:08,401 - INFO - Processing row 1274
+2025-05-23 19:29:57,142 - INFO - Skipping invalid or completed row at index 1275
+2025-05-23 19:29:57,142 - INFO - Skipping invalid or completed row at index 1276
+2025-05-23 19:29:57,142 - INFO - Processing row 1277
+2025-05-23 19:30:46,077 - INFO - Processing row 1278
+2025-05-23 19:31:34,915 - INFO - Processing row 1279
+2025-05-23 19:32:24,131 - INFO - Processing row 1280
+2025-05-23 19:32:38,982 - INFO - Skipping invalid or completed row at index 1281
+2025-05-23 19:32:38,983 - INFO - Skipping invalid or completed row at index 1282
+2025-05-23 19:32:38,983 - INFO - Processing row 1283
+2025-05-23 19:33:27,931 - INFO - Processing row 1284
+2025-05-23 19:34:16,766 - INFO - Processing row 1285
+2025-05-23 19:35:05,751 - INFO - Skipping invalid or completed row at index 1286
+2025-05-23 19:35:05,751 - INFO - Skipping invalid or completed row at index 1287
+2025-05-23 19:35:05,751 - INFO - Skipping invalid or completed row at index 1288
+2025-05-23 19:35:05,751 - INFO - Skipping invalid or completed row at index 1289
+2025-05-23 19:35:05,751 - INFO - Processing row 1290
+2025-05-23 19:35:54,702 - INFO - Skipping invalid or completed row at index 1291
+2025-05-23 19:35:54,702 - INFO - Processing row 1292
+2025-05-23 19:36:43,774 - INFO - Skipping invalid or completed row at index 1293
+2025-05-23 19:36:43,775 - INFO - Skipping invalid or completed row at index 1294
+2025-05-23 19:36:43,775 - INFO - Skipping invalid or completed row at index 1295
+2025-05-23 19:36:43,775 - INFO - Skipping invalid or completed row at index 1296
+2025-05-23 19:36:43,775 - INFO - Processing row 1297
+2025-05-23 19:36:52,411 - INFO - Skipping invalid or completed row at index 1298
+2025-05-23 19:36:52,411 - INFO - Processing row 1299
+2025-05-23 19:37:02,240 - INFO - Skipping invalid or completed row at index 1300
+2025-05-23 19:37:02,240 - INFO - Processing row 1301
+2025-05-23 19:37:51,455 - INFO - Skipping invalid or completed row at index 1302
+2025-05-23 19:37:51,456 - INFO - Processing row 1303
+2025-05-23 19:38:40,519 - INFO - Skipping invalid or completed row at index 1304
+2025-05-23 19:38:40,520 - INFO - Processing row 1305
+2025-05-23 19:38:59,499 - INFO - Skipping invalid or completed row at index 1306
+2025-05-23 19:38:59,499 - INFO - Skipping invalid or completed row at index 1307
+2025-05-23 19:38:59,499 - INFO - Skipping invalid or completed row at index 1308
+2025-05-23 19:38:59,499 - INFO - Skipping invalid or completed row at index 1309
+2025-05-23 19:38:59,500 - INFO - Skipping invalid or completed row at index 1310
+2025-05-23 19:38:59,500 - INFO - Skipping invalid or completed row at index 1311
+2025-05-23 19:38:59,500 - INFO - Skipping invalid or completed row at index 1312
+2025-05-23 19:38:59,500 - INFO - Skipping invalid or completed row at index 1313
+2025-05-23 19:38:59,500 - INFO - Skipping invalid or completed row at index 1314
+2025-05-23 19:38:59,500 - INFO - Processing row 1315
+2025-05-23 19:39:48,608 - INFO - Skipping invalid or completed row at index 1316
+2025-05-23 19:39:48,609 - INFO - Skipping invalid or completed row at index 1317
+2025-05-23 19:39:48,609 - INFO - Skipping invalid or completed row at index 1318
+2025-05-23 19:39:48,609 - INFO - Skipping invalid or completed row at index 1319
+2025-05-23 19:39:48,609 - INFO - Skipping invalid or completed row at index 1320
+2025-05-23 19:39:48,609 - INFO - Skipping invalid or completed row at index 1321
+2025-05-23 19:39:48,609 - INFO - Skipping invalid or completed row at index 1322
+2025-05-23 19:39:48,610 - INFO - Skipping invalid or completed row at index 1323
+2025-05-23 19:39:48,610 - INFO - Skipping invalid or completed row at index 1324
+2025-05-23 19:39:48,610 - INFO - Skipping invalid or completed row at index 1325
+2025-05-23 19:39:48,610 - INFO - Processing row 1326
+2025-05-23 19:40:02,729 - INFO - Skipping invalid or completed row at index 1327
+2025-05-23 19:40:02,729 - INFO - Processing row 1328
+2025-05-23 19:40:51,847 - INFO - Skipping invalid or completed row at index 1329
+2025-05-23 19:40:51,847 - INFO - Processing row 1330
+2025-05-23 19:41:15,266 - INFO - Skipping invalid or completed row at index 1331
+2025-05-23 19:41:15,267 - INFO - Skipping invalid or completed row at index 1332
+2025-05-23 19:41:15,267 - INFO - Skipping invalid or completed row at index 1333
+2025-05-23 19:41:15,267 - INFO - Skipping invalid or completed row at index 1334
+2025-05-23 19:41:15,267 - INFO - Skipping invalid or completed row at index 1335
+2025-05-23 19:41:15,267 - INFO - Processing row 1336
+2025-05-23 19:42:04,404 - INFO - Processing row 1337
+2025-05-23 19:42:53,673 - INFO - Skipping invalid or completed row at index 1338
+2025-05-23 19:42:53,674 - INFO - Skipping invalid or completed row at index 1339
+2025-05-23 19:42:53,674 - INFO - Skipping invalid or completed row at index 1340
+2025-05-23 19:42:53,674 - INFO - Processing row 1341
+2025-05-23 19:43:42,569 - INFO - Processing row 1342
+2025-05-23 19:44:31,374 - INFO - Skipping invalid or completed row at index 1343
+2025-05-23 19:44:31,375 - INFO - Skipping invalid or completed row at index 1344
+2025-05-23 19:44:31,375 - INFO - Skipping invalid or completed row at index 1345
+2025-05-23 19:44:31,375 - INFO - Processing row 1346
+2025-05-23 19:45:20,125 - INFO - Skipping invalid or completed row at index 1347
+2025-05-23 19:45:20,125 - INFO - Processing row 1348
+2025-05-23 19:45:58,430 - INFO - Processing row 1349
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1350
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1351
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1352
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1353
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1354
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1355
+2025-05-23 19:46:06,571 - INFO - Skipping invalid or completed row at index 1356
+2025-05-23 19:46:06,572 - INFO - Skipping invalid or completed row at index 1357
+2025-05-23 19:46:06,572 - INFO - Skipping invalid or completed row at index 1358
+2025-05-23 19:46:06,572 - INFO - Skipping invalid or completed row at index 1359
+2025-05-23 19:46:06,572 - INFO - Skipping invalid or completed row at index 1360
+2025-05-23 19:46:06,572 - INFO - Processing row 1361
+2025-05-23 19:46:55,169 - INFO - Skipping invalid or completed row at index 1362
+2025-05-23 19:46:55,169 - INFO - Skipping invalid or completed row at index 1363
+2025-05-23 19:46:55,169 - INFO - Processing row 1364
+2025-05-23 19:47:07,092 - INFO - Processing row 1365
+2025-05-23 19:47:21,071 - INFO - Skipping invalid or completed row at index 1366
+2025-05-23 19:47:21,071 - INFO - Processing row 1367
+2025-05-23 19:48:09,360 - INFO - Skipping invalid or completed row at index 1368
+2025-05-23 19:48:09,360 - INFO - Skipping invalid or completed row at index 1369
+2025-05-23 19:48:09,360 - INFO - Skipping invalid or completed row at index 1370
+2025-05-23 19:48:09,360 - INFO - Skipping invalid or completed row at index 1371
+2025-05-23 19:48:09,361 - INFO - Skipping invalid or completed row at index 1372
+2025-05-23 19:48:09,361 - INFO - Skipping invalid or completed row at index 1373
+2025-05-23 19:48:09,361 - INFO - Skipping invalid or completed row at index 1374
+2025-05-23 19:48:09,361 - INFO - Processing row 1375
+2025-05-23 19:48:27,567 - INFO - Skipping invalid or completed row at index 1376
+2025-05-23 19:48:27,568 - INFO - Skipping invalid or completed row at index 1377
+2025-05-23 19:48:27,568 - INFO - Processing row 1378
+2025-05-23 19:49:16,008 - INFO - Skipping invalid or completed row at index 1379
+2025-05-23 19:49:16,009 - INFO - Skipping invalid or completed row at index 1380
+2025-05-23 19:49:16,009 - INFO - Processing row 1381
+2025-05-23 19:50:04,805 - INFO - Processing row 1382
+2025-05-23 19:50:53,070 - INFO - Skipping invalid or completed row at index 1383
+2025-05-23 19:50:53,070 - INFO - Processing row 1384
+2025-05-23 19:51:41,915 - INFO - Skipping invalid or completed row at index 1385
+2025-05-23 19:51:41,916 - INFO - Processing row 1386
+2025-05-23 19:52:13,583 - INFO - Skipping invalid or completed row at index 1387
+2025-05-23 19:52:13,583 - INFO - Skipping invalid or completed row at index 1388
+2025-05-23 19:52:13,584 - INFO - Processing row 1389
+2025-05-23 19:52:21,397 - INFO - Processing row 1390
+2025-05-23 19:53:09,973 - INFO - Skipping invalid or completed row at index 1391
+2025-05-23 19:53:09,973 - INFO - Skipping invalid or completed row at index 1392
+2025-05-23 19:53:09,973 - INFO - Skipping invalid or completed row at index 1393
+2025-05-23 19:53:09,973 - INFO - Skipping invalid or completed row at index 1394
+2025-05-23 19:53:09,973 - INFO - Processing row 1395
+2025-05-23 19:53:23,370 - INFO - Processing row 1396
+2025-05-23 19:54:12,165 - INFO - Processing row 1397
+2025-05-23 19:54:18,803 - INFO - Processing row 1398
+2025-05-23 19:55:06,984 - INFO - Processing row 1399
+2025-05-23 19:55:18,810 - INFO - Processing row 1400
+2025-05-23 19:55:31,904 - INFO - Skipping invalid or completed row at index 1401
+2025-05-23 19:55:31,904 - INFO - Skipping invalid or completed row at index 1402
+2025-05-23 19:55:31,904 - INFO - Skipping invalid or completed row at index 1403
+2025-05-23 19:55:31,904 - INFO - Skipping invalid or completed row at index 1404
+2025-05-23 19:55:31,904 - INFO - Skipping invalid or completed row at index 1405
+2025-05-23 19:55:31,904 - INFO - Skipping invalid or completed row at index 1406
+2025-05-23 19:55:31,905 - INFO - Processing row 1407
+2025-05-23 19:55:40,443 - INFO - Skipping invalid or completed row at index 1408
+2025-05-23 19:55:40,443 - INFO - Skipping invalid or completed row at index 1409
+2025-05-23 19:55:40,443 - INFO - Skipping invalid or completed row at index 1410
+2025-05-23 19:55:40,443 - INFO - Skipping invalid or completed row at index 1411
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1412
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1413
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1414
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1415
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1416
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1417
+2025-05-23 19:55:40,444 - INFO - Skipping invalid or completed row at index 1418
+2025-05-23 19:55:40,444 - INFO - Processing row 1419
+2025-05-23 19:55:48,914 - INFO - Skipping invalid or completed row at index 1420
+2025-05-23 19:55:48,914 - INFO - Skipping invalid or completed row at index 1421
+2025-05-23 19:55:48,915 - INFO - Skipping invalid or completed row at index 1422
+2025-05-23 19:55:48,915 - INFO - Skipping invalid or completed row at index 1423
+2025-05-23 19:55:48,915 - INFO - Processing row 1424
+2025-05-23 19:56:37,550 - INFO - Processing row 1425
+2025-05-23 19:57:26,419 - INFO - Skipping invalid or completed row at index 1426
+2025-05-23 19:57:26,419 - INFO - Processing row 1427
+2025-05-23 19:58:15,013 - INFO - Processing row 1428
+2025-05-23 19:58:25,981 - INFO - Skipping invalid or completed row at index 1429
+2025-05-23 19:58:25,981 - INFO - Processing row 1430
+2025-05-23 19:59:14,493 - INFO - Skipping invalid or completed row at index 1431
+2025-05-23 19:59:14,493 - INFO - Skipping invalid or completed row at index 1432
+2025-05-23 19:59:14,494 - INFO - Skipping invalid or completed row at index 1433
+2025-05-23 19:59:14,494 - INFO - Processing row 1434
+2025-05-23 20:00:02,629 - INFO - Processing row 1435
+2025-05-23 20:00:51,089 - INFO - Skipping invalid or completed row at index 1436
+2025-05-23 20:00:51,090 - INFO - Skipping invalid or completed row at index 1437
+2025-05-23 20:00:51,090 - INFO - Skipping invalid or completed row at index 1438
+2025-05-23 20:00:51,090 - INFO - Skipping invalid or completed row at index 1439
+2025-05-23 20:00:51,090 - INFO - Processing row 1440
+2025-05-23 20:00:57,806 - INFO - Processing row 1441
+2025-05-23 20:01:04,472 - INFO - Processing row 1442
+2025-05-23 20:01:52,701 - INFO - Processing row 1443
+2025-05-23 20:02:41,472 - INFO - Skipping invalid or completed row at index 1444
+2025-05-23 20:02:41,473 - INFO - Processing row 1445
+2025-05-23 20:02:52,662 - INFO - Processing row 1446
+2025-05-23 20:03:01,281 - INFO - Skipping invalid or completed row at index 1447
+2025-05-23 20:03:01,281 - INFO - Skipping invalid or completed row at index 1448
+2025-05-23 20:03:01,281 - INFO - Processing row 1449
+2025-05-23 20:03:20,611 - INFO - Skipping invalid or completed row at index 1450
+2025-05-23 20:03:20,611 - INFO - Skipping invalid or completed row at index 1451
+2025-05-23 20:03:20,612 - INFO - Processing row 1452
+2025-05-23 20:04:08,898 - INFO - Processing row 1453
+2025-05-23 20:04:27,519 - INFO - Skipping invalid or completed row at index 1454
+2025-05-23 20:04:27,519 - INFO - Skipping invalid or completed row at index 1455
+2025-05-23 20:04:27,519 - INFO - Processing row 1456
+2025-05-23 20:05:16,271 - INFO - Processing row 1457
+2025-05-23 20:06:04,626 - INFO - Skipping invalid or completed row at index 1458
+2025-05-23 20:06:04,626 - INFO - Processing row 1459
+2025-05-23 20:06:33,436 - INFO - Processing row 1460
+2025-05-23 20:06:47,692 - INFO - Processing row 1461
+2025-05-23 20:06:55,609 - INFO - Processing row 1462
+2025-05-23 20:07:43,944 - INFO - Skipping invalid or completed row at index 1463
+2025-05-23 20:07:43,945 - INFO - Processing row 1464
+2025-05-23 20:08:04,268 - INFO - Skipping invalid or completed row at index 1465
+2025-05-23 20:08:04,268 - INFO - Skipping invalid or completed row at index 1466
+2025-05-23 20:08:04,268 - INFO - Processing row 1467
+2025-05-23 20:08:13,829 - INFO - Skipping invalid or completed row at index 1468
+2025-05-23 20:08:13,829 - INFO - Processing row 1469
+2025-05-23 20:09:02,336 - INFO - Skipping invalid or completed row at index 1470
+2025-05-23 20:09:02,336 - INFO - Processing row 1471
+2025-05-23 20:09:50,526 - INFO - Processing row 1472
+2025-05-23 20:10:38,634 - INFO - Skipping invalid or completed row at index 1473
+2025-05-23 20:10:38,635 - INFO - Skipping invalid or completed row at index 1474
+2025-05-23 20:10:38,635 - INFO - Processing row 1475
+2025-05-23 20:11:26,788 - INFO - Skipping invalid or completed row at index 1476
+2025-05-23 20:11:26,789 - INFO - Skipping invalid or completed row at index 1477
+2025-05-23 20:11:26,789 - INFO - Skipping invalid or completed row at index 1478
+2025-05-23 20:11:26,789 - INFO - Skipping invalid or completed row at index 1479
+2025-05-23 20:11:26,789 - INFO - Skipping invalid or completed row at index 1480
+2025-05-23 20:11:26,789 - INFO - Processing row 1481
+2025-05-23 20:12:14,883 - INFO - Skipping invalid or completed row at index 1482
+2025-05-23 20:12:14,883 - INFO - Processing row 1483
+2025-05-23 20:13:03,306 - INFO - Skipping invalid or completed row at index 1484
+2025-05-23 20:13:03,307 - INFO - Skipping invalid or completed row at index 1485
+2025-05-23 20:13:03,307 - INFO - Processing row 1486
+2025-05-23 20:13:51,435 - INFO - Skipping invalid or completed row at index 1487
+2025-05-23 20:13:51,435 - INFO - Skipping invalid or completed row at index 1488
+2025-05-23 20:13:51,435 - INFO - Processing row 1489
+2025-05-23 20:14:39,611 - INFO - Skipping invalid or completed row at index 1490
+2025-05-23 20:14:39,611 - INFO - Skipping invalid or completed row at index 1491
+2025-05-23 20:14:39,611 - INFO - Processing row 1492
+2025-05-23 20:15:27,732 - INFO - Skipping invalid or completed row at index 1493
+2025-05-23 20:15:27,733 - INFO - Skipping invalid or completed row at index 1494
+2025-05-23 20:15:27,733 - INFO - Processing row 1495
+2025-05-23 20:16:15,858 - INFO - Processing row 1496
+2025-05-23 20:17:03,931 - INFO - Processing row 1497
+2025-05-23 20:17:52,094 - INFO - Processing row 1498
+2025-05-23 20:18:40,286 - INFO - Skipping invalid or completed row at index 1499
+2025-05-23 20:18:40,286 - INFO - Skipping invalid or completed row at index 1500
+2025-05-23 20:18:40,286 - INFO - Skipping invalid or completed row at index 1501
+2025-05-23 20:18:40,287 - INFO - Skipping invalid or completed row at index 1502
+2025-05-23 20:18:40,287 - INFO - Processing row 1503
+2025-05-23 20:19:28,401 - INFO - Skipping invalid or completed row at index 1504
+2025-05-23 20:19:28,402 - INFO - Skipping invalid or completed row at index 1505
+2025-05-23 20:19:28,402 - INFO - Skipping invalid or completed row at index 1506
+2025-05-23 20:19:28,402 - INFO - Skipping invalid or completed row at index 1507
+2025-05-23 20:19:28,402 - INFO - Processing row 1508
+2025-05-23 20:20:16,508 - INFO - Skipping invalid or completed row at index 1509
+2025-05-23 20:20:16,508 - INFO - Skipping invalid or completed row at index 1510
+2025-05-23 20:20:16,508 - INFO - Skipping invalid or completed row at index 1511
+2025-05-23 20:20:16,509 - INFO - Skipping invalid or completed row at index 1512
+2025-05-23 20:20:16,509 - INFO - Skipping invalid or completed row at index 1513
+2025-05-23 20:20:16,509 - INFO - Skipping invalid or completed row at index 1514
+2025-05-23 20:20:16,509 - INFO - Processing row 1515
+2025-05-23 20:21:04,859 - INFO - Skipping invalid or completed row at index 1516
+2025-05-23 20:21:04,860 - INFO - Skipping invalid or completed row at index 1517
+2025-05-23 20:21:04,860 - INFO - Processing row 1518
+2025-05-23 20:21:53,045 - INFO - Skipping invalid or completed row at index 1519
+2025-05-23 20:21:53,046 - INFO - Skipping invalid or completed row at index 1520
+2025-05-23 20:21:53,046 - INFO - Processing row 1521
+2025-05-23 20:22:41,622 - INFO - Processing row 1522
+2025-05-23 20:23:30,029 - INFO - Processing row 1523
+2025-05-23 20:24:18,293 - INFO - Skipping invalid or completed row at index 1524
+2025-05-23 20:24:18,293 - INFO - Processing row 1525
+2025-05-23 20:25:06,651 - INFO - Skipping invalid or completed row at index 1526
+2025-05-23 20:25:06,651 - INFO - Skipping invalid or completed row at index 1527
+2025-05-23 20:25:06,651 - INFO - Skipping invalid or completed row at index 1528
+2025-05-23 20:25:06,652 - INFO - Skipping invalid or completed row at index 1529
+2025-05-23 20:25:06,652 - INFO - Skipping invalid or completed row at index 1530
+2025-05-23 20:25:06,652 - INFO - Processing row 1531
+2025-05-23 20:25:54,835 - INFO - Processing row 1532
+2025-05-23 20:26:43,278 - INFO - Processing row 1533
+2025-05-23 20:27:31,476 - INFO - Processing row 1534
+2025-05-23 20:28:32,964 - INFO - Skipping invalid or completed row at index 1535
+2025-05-23 20:28:32,964 - INFO - Processing row 1536
+2025-05-23 20:29:23,369 - INFO - Processing row 1537
+2025-05-23 20:30:11,488 - INFO - Skipping invalid or completed row at index 1538
+2025-05-23 20:30:11,489 - INFO - Processing row 1539
+2025-05-23 20:30:59,634 - INFO - Skipping invalid or completed row at index 1540
+2025-05-23 20:30:59,634 - INFO - Processing row 1541
+2025-05-23 20:31:47,728 - INFO - Processing row 1542
+2025-05-23 20:32:35,946 - INFO - Processing row 1543
+2025-05-23 20:33:24,527 - INFO - Processing row 1544
+2025-05-23 20:34:12,641 - INFO - Processing row 1545
+2025-05-23 20:35:00,770 - INFO - Skipping invalid or completed row at index 1546
+2025-05-23 20:35:00,770 - INFO - Skipping invalid or completed row at index 1547
+2025-05-23 20:35:00,771 - INFO - Processing row 1548
+2025-05-23 20:35:49,280 - INFO - Processing row 1549
+2025-05-23 20:36:37,398 - INFO - Processing row 1550
+2025-05-23 20:37:25,561 - INFO - Skipping invalid or completed row at index 1551
+2025-05-23 20:37:25,562 - INFO - Skipping invalid or completed row at index 1552
+2025-05-23 20:37:25,562 - INFO - Processing row 1553
+2025-05-23 20:38:13,629 - INFO - Processing row 1554
+2025-05-23 20:39:34,558 - INFO - Skipping invalid or completed row at index 1555
+2025-05-23 20:39:34,575 - INFO - Processing row 1556
+2025-05-23 20:40:22,717 - INFO - Skipping invalid or completed row at index 1557
+2025-05-23 20:40:22,717 - INFO - Skipping invalid or completed row at index 1558
+2025-05-23 20:40:22,717 - INFO - Skipping invalid or completed row at index 1559
+2025-05-23 20:40:22,717 - INFO - Processing row 1560
+2025-05-23 20:41:11,200 - INFO - Processing row 1561
+2025-05-23 20:41:59,754 - INFO - Skipping invalid or completed row at index 1562
+2025-05-23 20:41:59,754 - INFO - Processing row 1563
+2025-05-23 20:42:48,500 - INFO - Processing row 1564
+2025-05-23 20:43:37,099 - INFO - Processing row 1565
+2025-05-23 20:44:25,969 - INFO - Processing row 1566
+2025-05-23 20:45:14,987 - INFO - Processing row 1567
+2025-05-23 20:46:04,289 - INFO - Skipping invalid or completed row at index 1568
+2025-05-23 20:46:04,289 - INFO - Skipping invalid or completed row at index 1569
+2025-05-23 20:46:04,289 - INFO - Skipping invalid or completed row at index 1570
+2025-05-23 20:46:04,289 - INFO - Processing row 1571
+2025-05-23 20:46:58,187 - INFO - Skipping invalid or completed row at index 1572
+2025-05-23 20:46:58,187 - INFO - Skipping invalid or completed row at index 1573
+2025-05-23 20:46:58,187 - INFO - Processing row 1574
+2025-05-23 20:47:46,710 - INFO - Processing row 1575
+2025-05-23 20:48:34,948 - INFO - Skipping invalid or completed row at index 1576
+2025-05-23 20:48:34,948 - INFO - Skipping invalid or completed row at index 1577
+2025-05-23 20:48:34,948 - INFO - Skipping invalid or completed row at index 1578
+2025-05-23 20:48:34,948 - INFO - Processing row 1579
+2025-05-23 20:49:24,494 - INFO - Processing row 1580
+2025-05-23 20:50:13,054 - INFO - Processing row 1581
+2025-05-23 20:51:01,841 - INFO - Processing row 1582
+2025-05-23 20:51:50,452 - INFO - Skipping invalid or completed row at index 1583
+2025-05-23 20:51:50,452 - INFO - Processing row 1584
+2025-05-23 20:52:48,966 - INFO - Skipping invalid or completed row at index 1585
+2025-05-23 20:52:48,966 - INFO - Skipping invalid or completed row at index 1586
+2025-05-23 20:52:48,966 - INFO - Skipping invalid or completed row at index 1587
+2025-05-23 20:52:48,967 - INFO - Skipping invalid or completed row at index 1588
+2025-05-23 20:52:48,967 - INFO - Processing row 1589
+2025-05-23 20:53:37,400 - INFO - Processing row 1590
+2025-05-23 20:54:26,106 - INFO - Skipping invalid or completed row at index 1591
+2025-05-23 20:54:26,107 - INFO - Skipping invalid or completed row at index 1592
+2025-05-23 20:54:26,107 - INFO - Skipping invalid or completed row at index 1593
+2025-05-23 20:54:26,107 - INFO - Processing row 1594
+2025-05-23 20:55:14,523 - INFO - Skipping invalid or completed row at index 1595
+2025-05-23 20:55:14,523 - INFO - Skipping invalid or completed row at index 1596
+2025-05-23 20:55:14,523 - INFO - Skipping invalid or completed row at index 1597
+2025-05-23 20:55:14,523 - INFO - Skipping invalid or completed row at index 1598
+2025-05-23 20:55:14,523 - INFO - Skipping invalid or completed row at index 1599
+2025-05-23 20:55:14,524 - INFO - Processing row 1600
+2025-05-23 20:56:02,893 - INFO - Skipping invalid or completed row at index 1601
+2025-05-23 20:56:02,893 - INFO - Skipping invalid or completed row at index 1602
+2025-05-23 20:56:02,893 - INFO - Processing row 1603
+2025-05-23 20:56:52,030 - INFO - Processing row 1604
+2025-05-23 20:57:40,795 - INFO - Processing row 1605
+2025-05-23 20:58:29,270 - INFO - Skipping invalid or completed row at index 1606
+2025-05-23 20:58:29,271 - INFO - Skipping invalid or completed row at index 1607
+2025-05-23 20:58:29,271 - INFO - Processing row 1608
+2025-05-23 20:59:17,996 - INFO - Processing row 1609
+2025-05-23 21:00:06,419 - INFO - Skipping invalid or completed row at index 1610
+2025-05-23 21:00:06,419 - INFO - Skipping invalid or completed row at index 1611
+2025-05-23 21:00:06,420 - INFO - Skipping invalid or completed row at index 1612
+2025-05-23 21:00:06,420 - INFO - Processing row 1613
+2025-05-23 21:00:55,126 - INFO - Processing row 1614
+2025-05-23 21:01:43,244 - INFO - Processing row 1615
+2025-05-23 21:02:31,372 - INFO - Skipping invalid or completed row at index 1616
+2025-05-23 21:02:31,372 - INFO - Skipping invalid or completed row at index 1617
+2025-05-23 21:02:31,372 - INFO - Processing row 1618
+2025-05-23 21:03:19,498 - INFO - Skipping invalid or completed row at index 1619
+2025-05-23 21:03:19,499 - INFO - Processing row 1620
+2025-05-23 21:04:07,587 - INFO - Skipping invalid or completed row at index 1621
+2025-05-23 21:04:07,587 - INFO - Skipping invalid or completed row at index 1622
+2025-05-23 21:04:07,587 - INFO - Skipping invalid or completed row at index 1623
+2025-05-23 21:04:07,588 - INFO - Processing row 1624
+2025-05-23 21:04:55,758 - INFO - Skipping invalid or completed row at index 1625
+2025-05-23 21:04:55,758 - INFO - Processing row 1626
+2025-05-23 21:05:43,966 - INFO - Skipping invalid or completed row at index 1627
+2025-05-23 21:05:43,966 - INFO - Processing row 1628
+2025-05-23 21:06:32,112 - INFO - Processing row 1629
+2025-05-23 21:07:20,204 - INFO - Skipping invalid or completed row at index 1630
+2025-05-23 21:07:20,204 - INFO - Processing row 1631
+2025-05-23 21:08:08,311 - INFO - Skipping invalid or completed row at index 1632
+2025-05-23 21:08:08,311 - INFO - Processing row 1633
+2025-05-23 21:08:56,410 - INFO - Processing row 1634
+2025-05-23 21:09:44,630 - INFO - Skipping invalid or completed row at index 1635
+2025-05-23 21:09:44,630 - INFO - Skipping invalid or completed row at index 1636
+2025-05-23 21:09:44,630 - INFO - Skipping invalid or completed row at index 1637
+2025-05-23 21:09:44,630 - INFO - Processing row 1638
+2025-05-23 21:10:32,762 - INFO - Processing row 1639
+2025-05-23 21:11:20,914 - INFO - Skipping invalid or completed row at index 1640
+2025-05-23 21:11:20,914 - INFO - Processing row 1641
+2025-05-23 21:12:08,993 - INFO - Skipping invalid or completed row at index 1642
+2025-05-23 21:12:08,993 - INFO - Skipping invalid or completed row at index 1643
+2025-05-23 21:12:08,993 - INFO - Skipping invalid or completed row at index 1644
+2025-05-23 21:12:08,993 - INFO - Skipping invalid or completed row at index 1645
+2025-05-23 21:12:08,993 - INFO - Processing row 1646
+2025-05-23 21:12:57,132 - INFO - Processing row 1647
+2025-05-23 21:13:45,258 - INFO - Skipping invalid or completed row at index 1648
+2025-05-23 21:13:45,258 - INFO - Processing row 1649
+2025-05-23 21:14:33,358 - INFO - Skipping invalid or completed row at index 1650
+2025-05-23 21:14:33,358 - INFO - Processing row 1651
+2025-05-23 21:15:21,532 - INFO - Skipping invalid or completed row at index 1652
+2025-05-23 21:15:21,532 - INFO - Skipping invalid or completed row at index 1653
+2025-05-23 21:15:21,532 - INFO - Skipping invalid or completed row at index 1654
+2025-05-23 21:15:21,532 - INFO - Skipping invalid or completed row at index 1655
+2025-05-23 21:15:21,532 - INFO - Skipping invalid or completed row at index 1656
+2025-05-23 21:15:21,533 - INFO - Skipping invalid or completed row at index 1657
+2025-05-23 21:15:21,533 - INFO - Processing row 1658
+2025-05-23 21:16:09,626 - INFO - Skipping invalid or completed row at index 1659
+2025-05-23 21:16:09,626 - INFO - Skipping invalid or completed row at index 1660
+2025-05-23 21:16:09,626 - INFO - Skipping invalid or completed row at index 1661
+2025-05-23 21:16:09,627 - INFO - Skipping invalid or completed row at index 1662
+2025-05-23 21:16:09,627 - INFO - Skipping invalid or completed row at index 1663
+2025-05-23 21:16:09,627 - INFO - Skipping invalid or completed row at index 1664
+2025-05-23 21:16:09,627 - INFO - Processing row 1665
+2025-05-23 21:16:57,747 - INFO - Processing row 1666
+2025-05-23 21:17:45,873 - INFO - Skipping invalid or completed row at index 1667
+2025-05-23 21:17:45,873 - INFO - Skipping invalid or completed row at index 1668
+2025-05-23 21:17:45,874 - INFO - Processing row 1669
+2025-05-23 21:18:34,017 - INFO - Processing row 1670
+2025-05-23 21:19:22,191 - INFO - Skipping invalid or completed row at index 1671
+2025-05-23 21:19:22,191 - INFO - Processing row 1672
+2025-05-23 21:20:10,361 - INFO - Processing row 1673
+2025-05-23 21:20:58,441 - INFO - Processing row 1674
+2025-05-23 21:21:46,604 - INFO - Skipping invalid or completed row at index 1675
+2025-05-23 21:21:46,604 - INFO - Processing row 1676
+2025-05-23 21:22:35,157 - INFO - Processing row 1677
+2025-05-23 21:23:23,358 - INFO - Processing row 1678
+2025-05-23 21:24:11,481 - INFO - Processing row 1679
+2025-05-23 21:24:59,588 - INFO - Skipping invalid or completed row at index 1680
+2025-05-23 21:24:59,588 - INFO - Skipping invalid or completed row at index 1681
+2025-05-23 21:24:59,588 - INFO - Skipping invalid or completed row at index 1682
+2025-05-23 21:24:59,588 - INFO - Skipping invalid or completed row at index 1683
+2025-05-23 21:24:59,588 - INFO - Skipping invalid or completed row at index 1684
+2025-05-23 21:24:59,589 - INFO - Processing row 1685
+2025-05-23 21:25:47,848 - INFO - Skipping invalid or completed row at index 1686
+2025-05-23 21:25:47,849 - INFO - Skipping invalid or completed row at index 1687
+2025-05-23 21:25:47,849 - INFO - Processing row 1688
+2025-05-23 21:26:36,075 - INFO - Skipping invalid or completed row at index 1689
+2025-05-23 21:26:36,075 - INFO - Skipping invalid or completed row at index 1690
+2025-05-23 21:26:36,075 - INFO - Skipping invalid or completed row at index 1691
+2025-05-23 21:26:36,075 - INFO - Skipping invalid or completed row at index 1692
+2025-05-23 21:26:36,075 - INFO - Processing row 1693
+2025-05-23 21:27:24,264 - INFO - Skipping invalid or completed row at index 1694
+2025-05-23 21:27:24,264 - INFO - Processing row 1695
+2025-05-23 21:28:12,478 - INFO - Processing row 1696
+2025-05-23 21:29:00,593 - INFO - Skipping invalid or completed row at index 1697
+2025-05-23 21:29:00,593 - INFO - Skipping invalid or completed row at index 1698
+2025-05-23 21:29:00,593 - INFO - Processing row 1699
+2025-05-23 21:29:49,039 - INFO - Processing row 1700
+2025-05-23 21:30:37,228 - INFO - Skipping invalid or completed row at index 1701
+2025-05-23 21:30:37,228 - INFO - Processing row 1702
+2025-05-23 21:31:25,392 - INFO - Skipping invalid or completed row at index 1703
+2025-05-23 21:31:25,393 - INFO - Processing row 1704
+2025-05-23 21:32:13,526 - INFO - Skipping invalid or completed row at index 1705
+2025-05-23 21:32:13,527 - INFO - Skipping invalid or completed row at index 1706
+2025-05-23 21:32:13,527 - INFO - Processing row 1707
+2025-05-23 21:33:01,682 - INFO - Processing row 1708
+2025-05-23 21:33:53,153 - INFO - Processing row 1709
+2025-05-23 21:34:41,398 - INFO - Processing row 1710
+2025-05-23 21:35:29,588 - INFO - Skipping invalid or completed row at index 1711
+2025-05-23 21:35:29,588 - INFO - Processing row 1712
+2025-05-23 21:36:17,752 - INFO - Processing row 1713
+2025-05-23 21:37:06,027 - INFO - Skipping invalid or completed row at index 1714
+2025-05-23 21:37:06,027 - INFO - Skipping invalid or completed row at index 1715
+2025-05-23 21:37:06,027 - INFO - Skipping invalid or completed row at index 1716
+2025-05-23 21:37:06,027 - INFO - Processing row 1717
+2025-05-23 21:37:54,232 - INFO - Skipping invalid or completed row at index 1718
+2025-05-23 21:37:54,232 - INFO - Processing row 1719
+2025-05-23 21:38:42,632 - INFO - Processing row 1720
+2025-05-23 21:39:30,766 - INFO - Processing row 1721
+2025-05-23 21:40:19,032 - INFO - Skipping invalid or completed row at index 1722
+2025-05-23 21:40:19,032 - INFO - Skipping invalid or completed row at index 1723
+2025-05-23 21:40:19,033 - INFO - Skipping invalid or completed row at index 1724
+2025-05-23 21:40:19,033 - INFO - Skipping invalid or completed row at index 1725
+2025-05-23 21:40:19,033 - INFO - Processing row 1726
+2025-05-23 21:41:07,237 - INFO - Processing row 1727
+2025-05-23 21:41:56,115 - INFO - Processing row 1728
+2025-05-23 21:42:44,351 - INFO - Skipping invalid or completed row at index 1729
+2025-05-23 21:42:44,351 - INFO - Skipping invalid or completed row at index 1730
+2025-05-23 21:42:44,351 - INFO - Processing row 1731
+2025-05-23 21:43:32,674 - INFO - Processing row 1732
+2025-05-23 21:44:21,611 - INFO - Skipping invalid or completed row at index 1733
+2025-05-23 21:44:21,611 - INFO - Processing row 1734
+2025-05-23 21:45:10,299 - INFO - Processing row 1735
+2025-05-23 21:45:58,769 - INFO - Processing row 1736
+2025-05-23 21:46:47,231 - INFO - Processing row 1737
+2025-05-23 21:47:35,443 - INFO - Processing row 1738
+2025-05-23 21:48:23,954 - INFO - Skipping invalid or completed row at index 1739
+2025-05-23 21:48:23,954 - INFO - Skipping invalid or completed row at index 1740
+2025-05-23 21:48:23,954 - INFO - Processing row 1741
+2025-05-23 21:49:12,255 - INFO - Processing row 1742
+2025-05-23 21:50:00,471 - INFO - Skipping invalid or completed row at index 1743
+2025-05-23 21:50:00,471 - INFO - Skipping invalid or completed row at index 1744
+2025-05-23 21:50:00,471 - INFO - Skipping invalid or completed row at index 1745
+2025-05-23 21:50:00,471 - INFO - Skipping invalid or completed row at index 1746
+2025-05-23 21:50:00,472 - INFO - Skipping invalid or completed row at index 1747
+2025-05-23 21:50:00,472 - INFO - Skipping invalid or completed row at index 1748
+2025-05-23 21:50:00,472 - INFO - Processing row 1749
+2025-05-23 21:50:48,775 - INFO - Processing row 1750
+2025-05-23 21:51:37,153 - INFO - Skipping invalid or completed row at index 1751
+2025-05-23 21:51:37,154 - INFO - Skipping invalid or completed row at index 1752
+2025-05-23 21:51:37,154 - INFO - Skipping invalid or completed row at index 1753
+2025-05-23 21:51:37,154 - INFO - Processing row 1754
+2025-05-23 21:52:25,386 - INFO - Skipping invalid or completed row at index 1755
+2025-05-23 21:52:25,386 - INFO - Processing row 1756
+2025-05-23 21:53:13,849 - INFO - Skipping invalid or completed row at index 1757
+2025-05-23 21:53:13,850 - INFO - Processing row 1758
+2025-05-23 21:54:02,224 - INFO - Processing row 1759
+2025-05-23 21:54:50,576 - INFO - Skipping invalid or completed row at index 1760
+2025-05-23 21:54:50,576 - INFO - Processing row 1761
+2025-05-23 21:55:38,792 - INFO - Processing row 1762
+2025-05-23 21:56:26,947 - INFO - Skipping invalid or completed row at index 1763
+2025-05-23 21:56:26,947 - INFO - Processing row 1764
+2025-05-23 21:57:15,126 - INFO - Processing row 1765
+2025-05-23 21:58:03,316 - INFO - Processing row 1766
+2025-05-23 21:58:51,547 - INFO - Processing row 1767
+2025-05-23 21:59:39,758 - INFO - Processing row 1768
+2025-05-23 22:00:27,938 - INFO - Processing row 1769
+2025-05-23 22:01:16,146 - INFO - Processing row 1770
+2025-05-23 22:02:04,318 - INFO - Processing row 1771
+2025-05-23 22:02:52,565 - INFO - Skipping invalid or completed row at index 1772
+2025-05-23 22:02:52,565 - INFO - Processing row 1773
+2025-05-23 22:03:40,683 - INFO - Skipping invalid or completed row at index 1774
+2025-05-23 22:03:40,683 - INFO - Processing row 1775
+2025-05-23 22:04:28,967 - INFO - Skipping invalid or completed row at index 1776
+2025-05-23 22:04:28,967 - INFO - Skipping invalid or completed row at index 1777
+2025-05-23 22:04:28,967 - INFO - Skipping invalid or completed row at index 1778
+2025-05-23 22:04:28,968 - INFO - Skipping invalid or completed row at index 1779
+2025-05-23 22:04:28,968 - INFO - Skipping invalid or completed row at index 1780
+2025-05-23 22:04:28,968 - INFO - Processing row 1781
+2025-05-23 22:05:17,156 - INFO - Processing row 1782
+2025-05-23 22:06:05,420 - INFO - Processing row 1783
+2025-05-23 22:06:53,564 - INFO - Skipping invalid or completed row at index 1784
+2025-05-23 22:06:53,564 - INFO - Processing row 1785
+2025-05-23 22:07:41,719 - INFO - Processing row 1786
+2025-05-23 22:08:29,859 - INFO - Skipping invalid or completed row at index 1787
+2025-05-23 22:08:29,859 - INFO - Processing row 1788
+2025-05-23 22:09:18,094 - INFO - Processing row 1789
+2025-05-23 22:10:06,293 - INFO - Skipping invalid or completed row at index 1790
+2025-05-23 22:10:06,293 - INFO - Processing row 1791
+2025-05-23 22:10:54,493 - INFO - Processing row 1792
+2025-05-23 22:12:17,960 - INFO - Processing row 1793
+2025-05-23 22:13:56,712 - INFO - Processing row 1794
+2025-05-23 22:14:45,043 - INFO - Skipping invalid or completed row at index 1795
+2025-05-23 22:14:45,043 - INFO - Processing row 1796
+2025-05-23 22:15:33,308 - INFO - Skipping invalid or completed row at index 1797
+2025-05-23 22:15:33,309 - INFO - Skipping invalid or completed row at index 1798
+2025-05-23 22:15:33,309 - INFO - Skipping invalid or completed row at index 1799
+2025-05-23 22:15:33,309 - INFO - Skipping invalid or completed row at index 1800
+2025-05-23 22:15:33,309 - INFO - Skipping invalid or completed row at index 1801
+2025-05-23 22:15:33,309 - INFO - Skipping invalid or completed row at index 1802
+2025-05-23 22:15:33,309 - INFO - Processing row 1803
+2025-05-23 22:16:21,531 - INFO - Skipping invalid or completed row at index 1804
+2025-05-23 22:16:21,532 - INFO - Processing row 1805
+2025-05-23 22:17:09,886 - INFO - Skipping invalid or completed row at index 1806
+2025-05-23 22:17:09,887 - INFO - Processing row 1807
+2025-05-23 22:17:58,269 - INFO - Processing row 1808
+2025-05-23 22:18:46,486 - INFO - Skipping invalid or completed row at index 1809
+2025-05-23 22:18:46,486 - INFO - Processing row 1810
+2025-05-23 22:19:34,747 - INFO - Processing row 1811
+2025-05-23 22:20:22,927 - INFO - Processing row 1812
+2025-05-23 22:21:11,089 - INFO - Skipping invalid or completed row at index 1813
+2025-05-23 22:21:11,089 - INFO - Skipping invalid or completed row at index 1814
+2025-05-23 22:21:11,089 - INFO - Skipping invalid or completed row at index 1815
+2025-05-23 22:21:11,089 - INFO - Processing row 1816
+2025-05-23 22:21:59,218 - INFO - Skipping invalid or completed row at index 1817
+2025-05-23 22:21:59,218 - INFO - Skipping invalid or completed row at index 1818
+2025-05-23 22:21:59,218 - INFO - Skipping invalid or completed row at index 1819
+2025-05-23 22:21:59,218 - INFO - Skipping invalid or completed row at index 1820
+2025-05-23 22:21:59,218 - INFO - Processing row 1821
+2025-05-23 22:22:47,434 - INFO - Processing row 1822
+2025-05-23 22:23:35,831 - INFO - Processing row 1823
+2025-05-23 22:24:24,168 - INFO - Skipping invalid or completed row at index 1824
+2025-05-23 22:24:24,169 - INFO - Processing row 1825
+2025-05-23 22:25:12,500 - INFO - Skipping invalid or completed row at index 1826
+2025-05-23 22:25:12,500 - INFO - Skipping invalid or completed row at index 1827
+2025-05-23 22:25:12,501 - INFO - Skipping invalid or completed row at index 1828
+2025-05-23 22:25:12,501 - INFO - Processing row 1829
+2025-05-23 22:26:00,783 - INFO - Processing row 1830
+2025-05-23 22:26:48,999 - INFO - Skipping invalid or completed row at index 1831
+2025-05-23 22:26:48,999 - INFO - Skipping invalid or completed row at index 1832
+2025-05-23 22:26:48,999 - INFO - Processing row 1833
+2025-05-23 22:27:37,218 - INFO - Skipping invalid or completed row at index 1834
+2025-05-23 22:27:37,219 - INFO - Processing row 1835
+2025-05-23 22:28:25,541 - INFO - Processing row 1836
+2025-05-23 22:29:13,767 - INFO - Skipping invalid or completed row at index 1837
+2025-05-23 22:29:13,768 - INFO - Skipping invalid or completed row at index 1838
+2025-05-23 22:29:13,768 - INFO - Processing row 1839
+2025-05-23 22:30:01,930 - INFO - Skipping invalid or completed row at index 1840
+2025-05-23 22:30:01,931 - INFO - Processing row 1841
+2025-05-23 22:30:50,118 - INFO - Processing row 1842
+2025-05-23 22:31:54,621 - INFO - Processing row 1843
+2025-05-23 22:32:42,983 - INFO - Skipping invalid or completed row at index 1844
+2025-05-23 22:32:42,983 - INFO - Skipping invalid or completed row at index 1845
+2025-05-23 22:32:42,984 - INFO - Processing row 1846
+2025-05-23 22:33:31,524 - INFO - Skipping invalid or completed row at index 1847
+2025-05-23 22:33:31,524 - INFO - Processing row 1848
+2025-05-23 22:34:19,757 - INFO - Skipping invalid or completed row at index 1849
+2025-05-23 22:34:19,758 - INFO - Processing row 1850
+2025-05-23 22:35:08,025 - INFO - Processing row 1851
+2025-05-23 22:35:56,295 - INFO - Processing row 1852
+2025-05-23 22:36:44,451 - INFO - Skipping invalid or completed row at index 1853
+2025-05-23 22:36:44,451 - INFO - Skipping invalid or completed row at index 1854
+2025-05-23 22:36:44,451 - INFO - Skipping invalid or completed row at index 1855
+2025-05-23 22:36:44,452 - INFO - Skipping invalid or completed row at index 1856
+2025-05-23 22:36:44,452 - INFO - Processing row 1857
+2025-05-23 22:37:32,823 - INFO - Processing row 1858
+2025-05-23 22:38:21,033 - INFO - Processing row 1859
+2025-05-23 22:39:09,276 - INFO - Processing row 1860
+2025-05-23 22:39:57,592 - INFO - Skipping invalid or completed row at index 1861
+2025-05-23 22:39:57,593 - INFO - Skipping invalid or completed row at index 1862
+2025-05-23 22:39:57,593 - INFO - Skipping invalid or completed row at index 1863
+2025-05-23 22:39:57,593 - INFO - Processing row 1864
+2025-05-23 22:40:46,027 - INFO - Processing row 1865
+2025-05-23 22:41:34,529 - INFO - Skipping invalid or completed row at index 1866
+2025-05-23 22:41:34,529 - INFO - Skipping invalid or completed row at index 1867
+2025-05-23 22:41:34,529 - INFO - Processing row 1868
+2025-05-23 22:42:23,038 - INFO - Processing row 1869
+2025-05-23 22:43:11,695 - INFO - Skipping invalid or completed row at index 1870
+2025-05-23 22:43:11,696 - INFO - Skipping invalid or completed row at index 1871
+2025-05-23 22:43:11,696 - INFO - Skipping invalid or completed row at index 1872
+2025-05-23 22:43:11,696 - INFO - Skipping invalid or completed row at index 1873
+2025-05-23 22:43:11,696 - INFO - Skipping invalid or completed row at index 1874
+2025-05-23 22:43:11,696 - INFO - Skipping invalid or completed row at index 1875
+2025-05-23 22:43:11,696 - INFO - Processing row 1876
+2025-05-23 22:44:00,160 - INFO - Skipping invalid or completed row at index 1877
+2025-05-23 22:44:00,161 - INFO - Processing row 1878
+2025-05-23 22:44:48,870 - INFO - Skipping invalid or completed row at index 1879
+2025-05-23 22:44:48,871 - INFO - Skipping invalid or completed row at index 1880
+2025-05-23 22:44:48,871 - INFO - Skipping invalid or completed row at index 1881
+2025-05-23 22:44:48,871 - INFO - Skipping invalid or completed row at index 1882
+2025-05-23 22:44:48,871 - INFO - Skipping invalid or completed row at index 1883
+2025-05-23 22:44:48,871 - INFO - Skipping invalid or completed row at index 1884
+2025-05-23 22:44:48,871 - INFO - Processing row 1885
+2025-05-23 22:45:37,403 - INFO - Processing row 1886
+2025-05-23 22:46:25,982 - INFO - Processing row 1887
+2025-05-23 22:47:14,705 - INFO - Skipping invalid or completed row at index 1888
+2025-05-23 22:47:14,705 - INFO - Processing row 1889
+2025-05-23 22:48:03,044 - INFO - Processing row 1890
+2025-05-23 22:48:51,449 - INFO - Skipping invalid or completed row at index 1891
+2025-05-23 22:48:51,449 - INFO - Skipping invalid or completed row at index 1892
+2025-05-23 22:48:51,450 - INFO - Skipping invalid or completed row at index 1893
+2025-05-23 22:48:51,450 - INFO - Skipping invalid or completed row at index 1894
+2025-05-23 22:48:51,450 - INFO - Processing row 1895
+2025-05-23 22:49:40,200 - INFO - Processing row 1896
+2025-05-23 22:50:28,523 - INFO - Skipping invalid or completed row at index 1897
+2025-05-23 22:50:28,523 - INFO - Skipping invalid or completed row at index 1898
+2025-05-23 22:50:28,523 - INFO - Processing row 1899
+2025-05-23 22:51:16,979 - INFO - Processing row 1900
+2025-05-23 22:52:05,205 - INFO - Skipping invalid or completed row at index 1901
+2025-05-23 22:52:05,205 - INFO - Skipping invalid or completed row at index 1902
+2025-05-23 22:52:05,205 - INFO - Skipping invalid or completed row at index 1903
+2025-05-23 22:52:05,206 - INFO - Processing row 1904
+2025-05-23 22:52:53,454 - INFO - Processing row 1905
+2025-05-23 22:54:24,032 - INFO - Processing row 1906
+2025-05-23 22:55:12,238 - INFO - Processing row 1907
+2025-05-23 22:56:00,687 - INFO - Skipping invalid or completed row at index 1908
+2025-05-23 22:56:00,687 - INFO - Skipping invalid or completed row at index 1909
+2025-05-23 22:56:00,688 - INFO - Skipping invalid or completed row at index 1910
+2025-05-23 22:56:00,688 - INFO - Skipping invalid or completed row at index 1911
+2025-05-23 22:56:00,688 - INFO - Skipping invalid or completed row at index 1912
+2025-05-23 22:56:00,688 - INFO - Processing row 1913
+2025-05-23 22:56:48,930 - INFO - Processing row 1914
+2025-05-23 22:57:37,175 - INFO - Processing row 1915
+2025-05-23 22:58:25,541 - INFO - Skipping invalid or completed row at index 1916
+2025-05-23 22:58:25,541 - INFO - Skipping invalid or completed row at index 1917
+2025-05-23 22:58:25,542 - INFO - Processing row 1918
+2025-05-23 22:59:13,729 - INFO - Skipping invalid or completed row at index 1919
+2025-05-23 22:59:13,729 - INFO - Processing row 1920
+2025-05-23 23:00:01,915 - INFO - Processing row 1921
+2025-05-23 23:00:50,103 - INFO - Processing row 1922
+2025-05-23 23:01:38,486 - INFO - Skipping invalid or completed row at index 1923
+2025-05-23 23:01:38,486 - INFO - Skipping invalid or completed row at index 1924
+2025-05-23 23:01:38,487 - INFO - Skipping invalid or completed row at index 1925
+2025-05-23 23:01:38,487 - INFO - Skipping invalid or completed row at index 1926
+2025-05-23 23:01:38,487 - INFO - Processing row 1927
+2025-05-23 23:02:26,775 - INFO - Skipping invalid or completed row at index 1928
+2025-05-23 23:02:26,775 - INFO - Skipping invalid or completed row at index 1929
+2025-05-23 23:02:26,776 - INFO - Skipping invalid or completed row at index 1930
+2025-05-23 23:02:26,776 - INFO - Skipping invalid or completed row at index 1931
+2025-05-23 23:02:26,776 - INFO - Skipping invalid or completed row at index 1932
+2025-05-23 23:02:26,776 - INFO - Processing row 1933
+2025-05-23 23:03:14,893 - INFO - Skipping invalid or completed row at index 1934
+2025-05-23 23:03:14,893 - INFO - Processing row 1935
+2025-05-23 23:04:03,135 - INFO - Processing row 1936
+2025-05-23 23:04:50,966 - INFO - Processing row 1937
+2025-05-23 23:05:39,424 - INFO - Processing row 1938
+2025-05-23 23:06:27,658 - INFO - Skipping invalid or completed row at index 1939
+2025-05-23 23:06:27,658 - INFO - Processing row 1940
+2025-05-23 23:07:15,937 - INFO - Skipping invalid or completed row at index 1941
+2025-05-23 23:07:15,937 - INFO - Processing row 1942
+2025-05-23 23:08:04,185 - INFO - Skipping invalid or completed row at index 1943
+2025-05-23 23:08:04,186 - INFO - Processing row 1944
+2025-05-23 23:08:52,400 - INFO - Processing row 1945
+2025-05-23 23:09:40,614 - INFO - Skipping invalid or completed row at index 1946
+2025-05-23 23:09:40,614 - INFO - Processing row 1947
+2025-05-23 23:10:28,793 - INFO - Skipping invalid or completed row at index 1948
+2025-05-23 23:10:28,793 - INFO - Skipping invalid or completed row at index 1949
+2025-05-23 23:10:28,793 - INFO - Processing row 1950
+2025-05-23 23:11:17,015 - INFO - Processing row 1951
+2025-05-23 23:12:05,227 - INFO - Skipping invalid or completed row at index 1952
+2025-05-23 23:12:05,228 - INFO - Processing row 1953
+2025-05-23 23:12:53,405 - INFO - Skipping invalid or completed row at index 1954
+2025-05-23 23:12:53,405 - INFO - Skipping invalid or completed row at index 1955
+2025-05-23 23:12:53,405 - INFO - Skipping invalid or completed row at index 1956
+2025-05-23 23:12:53,405 - INFO - Processing row 1957
+2025-05-23 23:13:41,778 - INFO - Skipping invalid or completed row at index 1958
+2025-05-23 23:13:41,778 - INFO - Skipping invalid or completed row at index 1959
+2025-05-23 23:13:41,778 - INFO - Skipping invalid or completed row at index 1960
+2025-05-23 23:13:41,778 - INFO - Skipping invalid or completed row at index 1961
+2025-05-23 23:13:41,778 - INFO - Processing row 1962
+2025-05-23 23:14:29,924 - INFO - Skipping invalid or completed row at index 1963
+2025-05-23 23:14:29,924 - INFO - Processing row 1964
+2025-05-23 23:15:18,407 - INFO - Processing row 1965
+2025-05-23 23:16:06,654 - INFO - Skipping invalid or completed row at index 1966
+2025-05-23 23:16:06,654 - INFO - Skipping invalid or completed row at index 1967
+2025-05-23 23:16:06,655 - INFO - Processing row 1968
+2025-05-23 23:16:54,889 - INFO - Processing row 1969
+2025-05-23 23:17:43,113 - INFO - Skipping invalid or completed row at index 1970
+2025-05-23 23:17:43,113 - INFO - Processing row 1971
+2025-05-23 23:18:31,462 - INFO - Processing row 1972
+2025-05-23 23:19:19,688 - INFO - Skipping invalid or completed row at index 1973
+2025-05-23 23:19:19,689 - INFO - Processing row 1974
+2025-05-23 23:20:07,833 - INFO - Skipping invalid or completed row at index 1975
+2025-05-23 23:20:07,834 - INFO - Processing row 1976
+2025-05-23 23:20:55,957 - INFO - Processing row 1977
+2025-05-23 23:21:44,069 - INFO - Skipping invalid or completed row at index 1978
+2025-05-23 23:21:44,069 - INFO - Skipping invalid or completed row at index 1979
+2025-05-23 23:21:44,069 - INFO - Skipping invalid or completed row at index 1980
+2025-05-23 23:21:44,070 - INFO - Skipping invalid or completed row at index 1981
+2025-05-23 23:21:44,070 - INFO - Skipping invalid or completed row at index 1982
+2025-05-23 23:21:44,070 - INFO - Skipping invalid or completed row at index 1983
+2025-05-23 23:21:44,070 - INFO - Skipping invalid or completed row at index 1984
+2025-05-23 23:21:44,070 - INFO - Skipping invalid or completed row at index 1985
+2025-05-23 23:21:44,070 - INFO - Skipping invalid or completed row at index 1986
+2025-05-23 23:21:44,070 - INFO - Processing row 1987
+2025-05-23 23:22:32,286 - INFO - Processing row 1988
+2025-05-23 23:23:20,586 - INFO - Skipping invalid or completed row at index 1989
+2025-05-23 23:23:20,586 - INFO - Skipping invalid or completed row at index 1990
+2025-05-23 23:23:20,586 - INFO - Processing row 1991
+2025-05-23 23:24:08,780 - INFO - Processing row 1992
+2025-05-23 23:24:57,105 - INFO - Skipping invalid or completed row at index 1993
+2025-05-23 23:24:57,105 - INFO - Skipping invalid or completed row at index 1994
+2025-05-23 23:24:57,105 - INFO - Processing row 1995
+2025-05-23 23:25:45,340 - INFO - Skipping invalid or completed row at index 1996
+2025-05-23 23:25:45,340 - INFO - Skipping invalid or completed row at index 1997
+2025-05-23 23:25:45,340 - INFO - Skipping invalid or completed row at index 1998
+2025-05-23 23:25:45,340 - INFO - Skipping invalid or completed row at index 1999
+2025-05-23 23:25:45,340 - INFO - Processing row 2000
+2025-05-23 23:26:33,489 - INFO - Processing row 2001
+2025-05-23 23:27:21,660 - INFO - Processing row 2002
+2025-05-23 23:28:09,794 - INFO - Skipping invalid or completed row at index 2003
+2025-05-23 23:28:09,794 - INFO - Processing row 2004
+2025-05-23 23:28:58,121 - INFO - Skipping invalid or completed row at index 2005
+2025-05-23 23:28:58,121 - INFO - Processing row 2006
+2025-05-23 23:29:46,300 - INFO - Skipping invalid or completed row at index 2007
+2025-05-23 23:29:46,301 - INFO - Skipping invalid or completed row at index 2008
+2025-05-23 23:29:46,301 - INFO - Processing row 2009
+2025-05-23 23:30:34,675 - INFO - Processing row 2010
+2025-05-23 23:31:22,887 - INFO - Processing row 2011
+2025-05-23 23:32:11,080 - INFO - Processing row 2012
+2025-05-23 23:32:59,396 - INFO - Skipping invalid or completed row at index 2013
+2025-05-23 23:32:59,396 - INFO - Processing row 2014
+2025-05-23 23:33:47,557 - INFO - Processing row 2015
+2025-05-23 23:34:36,420 - INFO - Skipping invalid or completed row at index 2016
+2025-05-23 23:34:36,420 - INFO - Skipping invalid or completed row at index 2017
+2025-05-23 23:34:36,420 - INFO - Skipping invalid or completed row at index 2018
+2025-05-23 23:34:36,420 - INFO - Processing row 2019
+2025-05-23 23:35:24,632 - INFO - Processing row 2020
+2025-05-23 23:36:13,132 - INFO - Processing row 2021
+2025-05-23 23:37:01,355 - INFO - Skipping invalid or completed row at index 2022
+2025-05-23 23:37:01,355 - INFO - Skipping invalid or completed row at index 2023
+2025-05-23 23:37:01,356 - INFO - Skipping invalid or completed row at index 2024
+2025-05-23 23:37:01,356 - INFO - Skipping invalid or completed row at index 2025
+2025-05-23 23:37:01,356 - INFO - Processing row 2026
+2025-05-23 23:37:49,599 - INFO - Skipping invalid or completed row at index 2027
+2025-05-23 23:37:49,599 - INFO - Processing row 2028
+2025-05-23 23:38:38,170 - INFO - Processing row 2029
+2025-05-23 23:39:26,329 - INFO - Processing row 2030
+2025-05-23 23:40:14,552 - INFO - Processing row 2031
+2025-05-23 23:41:02,792 - INFO - Processed 810 valid rows.
+2025-05-23 23:41:02,792 - INFO - Exact matches among them: 147
+2025-05-23 23:41:02,792 - INFO - Final CSV saved at ./predictions_lora/updated_df_DataFlowCF_Inline.csv
