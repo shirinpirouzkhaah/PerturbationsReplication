@@ -10,7 +10,7 @@ library(MuMIn)
 library(lmerTest)  # For p-values in mixed models
 
 # Set working directory
-setwd("/Users/shirizlw/Desktop/LlaMaReviewer/BuildData")
+setwd("~/Desktop/LlaMaReviewer/BuildData")
 print(getwd())
 
 # Load the CSV file
