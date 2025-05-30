@@ -9,18 +9,18 @@ import replicate
 
 
 from service import instruct_model 
-client1 = Together(api_key="845ab167dc5c56df0dd9fec16fc1ae7eaf90d03c24ec287f9cec70652f2375a2")
+client1 = Together(api_key="")
 Model = "deepseek-ai/DeepSeek-V3"
 model = "DeepSeek-V3"
 
 from service import instruct_model 
-client1 = Together(api_key="845ab167dc5c56df0dd9fec16fc1ae7eaf90d03c24ec287f9cec70652f2375a2")
+client1 = Together(api_key="")
 Model = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 model = "Llama3.3_70B"
 
 
 from serviceOpenAI import instruct_model
-GPT_TOKEN = "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"
+GPT_TOKEN = ""
 client1 = OpenAI(api_key=GPT_TOKEN)
 Model = "gpt-3.5-turbo"
 model = "gpt-3.5-turbo"
@@ -37,7 +37,7 @@ from openai import OpenAI
 import replicate
 
 from service import instruct_model 
-client1 = Together(api_key="845ab167dc5c56df0dd9fec16fc1ae7eaf90d03c24ec287f9cec70652f2375a2")
+client1 = Together(api_key="")
 Model = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 model = "Llama3.3_70B"
 
@@ -114,25 +114,8 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from openai import OpenAI
 import replicate
 
-from service import instruct_model 
-client1 = Together(api_key="845ab167dc5c56df0dd9fec16fc1ae7eaf90d03c24ec287f9cec70652f2375a2")
-Model = "deepseek-ai/DeepSeek-V3"
-model = "DeepSeek-V3"
-
-
 
 CF_Type = "RandomNamesCF"
-
-
-
-#types=( "DataTypeCF" "IfElseCF" "ExceptionCF"
- # "DeadCodeCF" "TryNcatchCF" 
- # "DataFlowCF" "EqualAssertCF" 
- # "NullAssertCF" "TrueFalseAssertCF" 
- # "IndependentSwapCF" "defUseBreakCF" 
- # "ShuffleNamesCF" "RandomNamesCF" )
-
-
 
 df_A_records = pd.read_csv(f"OrgSourceCode_{model}.csv")
 df = pd.read_csv("perfectPredictionsUpdated.csv")
